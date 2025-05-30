@@ -87,4 +87,4 @@ new_dataset = new_dataset[['PassengerId','Survived','Title','First_Name', 'Last_
 
 """Saving final result into CSV"""
 
-new_dataset.to_csv('final_cleaned_dataset.csv', index=False)
+new_dataset.to_csv('output.csv', index=False)
