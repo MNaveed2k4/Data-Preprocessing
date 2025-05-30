@@ -1,0 +1,1302 @@
+PassengerId,Survived,Title,First_Name,Last_Name,Sex,Age,Binned_Age,SibSp,Parch,Ticket,Pclass,Embarked,HasCabin,Fare,Binned_Fare
+1,0,Mr,Owen Harris,Braund,male,22.0,Young Adult,1,0,A/5 21171,3,S,0,7.25,low
+2,1,Mrs,Florence Briggs Thayer,Cumings,female,38.0,Adult,1,0,PC 17599,1,C,1,71.2833,very high
+3,1,Miss,Laina,Heikkinen,female,26.0,Young Adult,0,0,STON/O2 3101282,3,S,0,7.925,low
+4,1,Mrs,Lily May Peel,Futrelle,female,35.0,Young Adult,1,0,113803,1,S,1,53.1,very high
+5,0,Mr,William Henry,Allen,male,35.0,Young Adult,0,0,373450,3,S,0,8.05,medium
+6,0,Mr,James,Moran,male,28.0,Young Adult,0,0,330877,3,Q,0,8.4583,medium
+7,0,Mr,Timothy J,McCarthy,male,54.0,Middle Aged,0,0,17463,1,S,1,51.8625,very high
+8,0,Master,Gosta Leonard,Palsson,male,2.0,Infant,3,1,349909,3,S,0,21.075,high
+9,1,Mrs,Elisabeth Vilhelmina Berg,Johnson,female,27.0,Young Adult,0,2,347742,3,S,0,11.1333,medium
+10,1,Mrs,Adele Achem,Nasser,female,14.0,Teenager,1,0,237736,2,C,0,30.0708,high
+11,1,Miss,Marguerite Rut,Sandstrom,female,4.0,Child,1,1,PP 9549,3,S,1,16.7,high
+12,1,Miss,Elizabeth,Bonnell,female,58.0,Middle Aged,0,0,113783,1,S,1,26.55,high
+13,0,Mr,William Henry,Saundercock,male,20.0,Young Adult,0,0,A/5 2151,3,S,0,8.05,medium
+14,0,Mr,Anders Johan,Andersson,male,39.0,Adult,1,5,347082,3,S,0,31.275,high
+15,0,Miss,Hulda Amanda Adolfina,Vestrom,female,14.0,Teenager,0,0,350406,3,S,0,7.8542,low
+16,1,Mrs,Mary D Kingcome),Hewlett,female,55.0,Middle Aged,0,0,248706,2,S,0,16.0,high
+17,0,Master,Eugene,Rice,male,2.0,Infant,4,1,382652,3,Q,0,29.125,high
+18,1,Mr,Charles Eugene,Williams,male,28.0,Young Adult,0,0,244373,2,S,0,13.0,medium
+19,0,Mrs,Emelia Maria Vandemoortele,Vander Planke,female,31.0,Young Adult,1,0,345763,3,S,0,18.0,high
+21,0,Mr,Joseph J,Fynney,male,35.0,Young Adult,0,0,239865,2,S,0,26.0,high
+22,1,Mr,Lawrence,Beesley,male,34.0,Young Adult,0,0,248698,2,S,1,13.0,medium
+23,1,Miss,"Anna ""Annie""",McGowan,female,15.0,Teenager,0,0,330923,3,Q,0,8.0292,medium
+24,1,Mr,William Thompson,Sloper,male,28.0,Young Adult,0,0,113788,1,S,1,35.5,very high
+25,0,Miss,Torborg Danira,Palsson,female,8.0,Child,3,1,349909,3,S,0,21.075,high
+26,1,Mrs,Selma Augusta Emilia Johansson,Asplund,female,38.0,Adult,1,5,347077,3,S,0,31.3875,very high
+27,0,Mr,Farred Chehab,Emir,male,28.0,Young Adult,0,0,2631,3,C,0,7.225,low
+28,0,Mr,Charles Alexander,Fortune,male,19.0,Teenager,3,2,19950,1,S,1,263.0,very high
+29,1,Miss,"Ellen ""Nellie""",O'Dwyer,female,28.0,Young Adult,0,0,330959,3,Q,0,7.8792,low
+30,0,Mr,Lalio,Todoroff,male,28.0,Young Adult,0,0,349216,3,S,0,7.8958,low
+31,0,Don,Manuel E,Uruchurtu,male,40.0,Adult,0,0,PC 17601,1,C,0,27.7208,high
+32,1,Mrs,Marie Eugenie,Spencer,female,28.0,Young Adult,1,0,PC 17569,1,C,1,146.5208,very high
+33,1,Miss,Mary Agatha,Glynn,female,28.0,Young Adult,0,0,335677,3,Q,0,7.75,low
+34,0,Mr,Edward H,Wheadon,male,66.0,Senior,0,0,CA 24579,2,S,0,10.5,medium
+35,0,Mr,Edgar Joseph,Meyer,male,28.0,Young Adult,1,0,PC 17604,1,C,0,82.1708,very high
+36,0,Mr,Alexander Oskar,Holverson,male,42.0,Adult,1,0,113789,1,S,0,52.0,very high
+37,1,Mr,Hanna,Mamee,male,28.0,Young Adult,0,0,2677,3,C,0,7.2292,low
+38,0,Mr,Ernest Charles,Cann,male,21.0,Young Adult,0,0,A/5 2152,3,S,0,8.05,medium
+39,0,Miss,Augusta Maria,Vander Planke,female,18.0,Teenager,2,0,345764,3,S,0,18.0,high
+40,1,Miss,Jamila,Nicola-Yarred,female,14.0,Teenager,1,0,2651,3,C,0,11.2417,medium
+41,0,Mrs,Johanna Persdotter Larsson,Ahlin,female,40.0,Adult,1,0,7546,3,S,0,9.475,medium
+42,0,Mrs,Dorothy Ann Wonnacott,Turpin,female,27.0,Young Adult,1,0,11668,2,S,0,21.0,high
+43,0,Mr,Theodor,Kraeff,male,28.0,Young Adult,0,0,349253,3,C,0,7.8958,low
+44,1,Miss,Simonne Marie Anne Andree,Laroche,female,3.0,Child,1,2,SC/Paris 2123,2,C,0,41.5792,very high
+45,1,Miss,Margaret Delia,Devaney,female,19.0,Teenager,0,0,330958,3,Q,0,7.8792,low
+46,0,Mr,William John,Rogers,male,28.0,Young Adult,0,0,SC/A4 23567,3,S,0,8.05,medium
+47,0,Mr,Denis,Lennon,male,28.0,Young Adult,1,0,370371,3,Q,0,15.5,high
+48,1,Miss,Bridget,O'Driscoll,female,28.0,Young Adult,0,0,14311,3,Q,0,7.75,low
+49,0,Mr,Youssef,Samaan,male,28.0,Young Adult,2,0,2662,3,C,0,21.6792,high
+50,0,Mrs,Josefine Franchi,Arnold-Franchi,female,18.0,Teenager,1,0,349237,3,S,0,17.8,high
+51,0,Master,Juha Niilo,Panula,male,7.0,Child,4,1,3101295,3,S,0,39.6875,very high
+52,0,Mr,Richard Cater,Nosworthy,male,21.0,Young Adult,0,0,A/4 39886,3,S,0,7.8,low
+53,1,Mrs,Myna Haxtun,Harper,female,49.0,Adult,1,0,PC 17572,1,C,1,76.7292,very high
+54,1,Mrs,Elizabeth Anne Wilkinson,Faunthorpe,female,29.0,Young Adult,1,0,2926,2,S,0,26.0,high
+55,0,Mr,Engelhart Cornelius,Ostby,male,65.0,Senior,0,1,113509,1,C,1,61.9792,very high
+56,1,Mr,Hugh,Woolner,male,28.0,Young Adult,0,0,19947,1,S,1,35.5,very high
+57,1,Miss,Emily,Rugg,female,21.0,Young Adult,0,0,CA 31026,2,S,0,10.5,medium
+58,0,Mr,Mansouer,Novel,male,28.5,Young Adult,0,0,2697,3,C,0,7.2292,low
+59,1,Miss,Constance Mirium,West,female,5.0,Child,1,2,CA 34651,2,S,0,27.75,high
+60,0,Master,William Frederick,Goodwin,male,11.0,Child,5,2,CA 2144,3,S,0,46.9,very high
+61,0,Mr,Orsen,Sirayanian,male,22.0,Young Adult,0,0,2669,3,C,0,7.2292,low
+63,0,Mr,Henry Birkhardt,Harris,male,45.0,Adult,1,0,36973,1,S,1,83.475,very high
+64,0,Master,Harald,Skoog,male,4.0,Child,3,2,347088,3,S,0,27.9,high
+65,0,Mr,Albert A,Stewart,male,28.0,Young Adult,0,0,PC 17605,1,C,0,27.7208,high
+66,1,Master,Gerios,Moubarek,male,28.0,Young Adult,1,1,2661,3,C,0,15.2458,high
+67,1,Mrs,Elizabeth Ramell,Nye,female,29.0,Young Adult,0,0,CA 29395,2,S,1,10.5,medium
+68,0,Mr,Ernest James,Crease,male,19.0,Teenager,0,0,SP 3464,3,S,0,8.1583,medium
+69,1,Miss,Erna Alexandra,Andersson,female,17.0,Teenager,4,2,3101281,3,S,0,7.925,low
+70,0,Mr,Vincenz,Kink,male,26.0,Young Adult,2,0,315151,3,S,0,8.6625,medium
+71,0,Mr,Stephen Curnow,Jenkin,male,32.0,Young Adult,0,0,CA 33111,2,S,0,10.5,medium
+72,0,Miss,Lillian Amy,Goodwin,female,16.0,Teenager,5,2,CA 2144,3,S,0,46.9,very high
+73,0,Mr,Ambrose Jr,Hood,male,21.0,Young Adult,0,0,SOC 14879,2,S,0,73.5,very high
+74,0,Mr,Apostolos,Chronopoulos,male,26.0,Young Adult,1,0,2680,3,C,0,14.4542,medium
+75,1,Mr,Lee,Bing,male,32.0,Young Adult,0,0,1601,3,S,0,56.4958,very high
+76,0,Mr,Sigurd Hansen,Moen,male,25.0,Young Adult,0,0,348123,3,S,1,7.65,low
+77,0,Mr,Ivan,Staneff,male,28.0,Young Adult,0,0,349208,3,S,0,7.8958,low
+78,0,Mr,Rahamin Haim,Moutal,male,28.0,Young Adult,0,0,374746,3,S,0,8.05,medium
+79,1,Master,Alden Gates,Caldwell,male,0.83,Infant,0,2,248738,2,S,0,29.0,high
+80,1,Miss,Elizabeth,Dowdell,female,30.0,Young Adult,0,0,364516,3,S,0,12.475,medium
+81,0,Mr,Achille,Waelens,male,22.0,Young Adult,0,0,345767,3,S,0,9.0,medium
+82,1,Mr,Jan Baptist,Sheerlinck,male,29.0,Young Adult,0,0,345779,3,S,0,9.5,medium
+83,1,Miss,Brigdet Delia,McDermott,female,28.0,Young Adult,0,0,330932,3,Q,0,7.7875,low
+84,0,Mr,Francisco M,Carrau,male,28.0,Young Adult,0,0,113059,1,S,0,47.1,very high
+85,1,Miss,Bertha,Ilett,female,17.0,Teenager,0,0,SO/C 14885,2,S,0,10.5,medium
+86,1,Mrs,Maria Mathilda Gustafsson,Backstrom,female,33.0,Young Adult,3,0,3101278,3,S,0,15.85,high
+87,0,Mr,William Neal,Ford,male,16.0,Teenager,1,3,W/C 6608,3,S,0,34.375,very high
+88,0,Mr,Selman Francis,Slocovski,male,28.0,Young Adult,0,0,SOTON/OQ 392086,3,S,0,8.05,medium
+89,1,Miss,Mabel Helen,Fortune,female,23.0,Young Adult,3,2,19950,1,S,1,263.0,very high
+90,0,Mr,Francesco,Celotti,male,24.0,Young Adult,0,0,343275,3,S,0,8.05,medium
+91,0,Mr,Emil,Christmann,male,29.0,Young Adult,0,0,343276,3,S,0,8.05,medium
+92,0,Mr,Paul Edvin,Andreasson,male,20.0,Young Adult,0,0,347466,3,S,0,7.8542,low
+93,0,Mr,Herbert Fuller,Chaffee,male,46.0,Adult,1,0,WEP 5734,1,S,1,61.175,very high
+94,0,Mr,Bertram Frank,Dean,male,26.0,Young Adult,1,2,CA 2315,3,S,0,20.575,high
+95,0,Mr,Daniel,Coxon,male,59.0,Middle Aged,0,0,364500,3,S,0,7.25,low
+96,0,Mr,Charles Joseph,Shorney,male,28.0,Young Adult,0,0,374910,3,S,0,8.05,medium
+97,0,Mr,George B,Goldschmidt,male,71.0,Senior,0,0,PC 17754,1,C,1,34.6542,very high
+98,1,Mr,William Bertram,Greenfield,male,23.0,Young Adult,0,1,PC 17759,1,C,1,63.3583,very high
+99,1,Mrs,Ada Julia Bone,Doling,female,34.0,Young Adult,0,1,231919,2,S,0,23.0,high
+100,0,Mr,Sinai,Kantor,male,34.0,Young Adult,1,0,244367,2,S,0,26.0,high
+101,0,Miss,Matilda,Petranec,female,28.0,Young Adult,0,0,349245,3,S,0,7.8958,low
+102,0,Mr,"Pastcho (""Pentcho"")",Petroff,male,28.0,Young Adult,0,0,349215,3,S,0,7.8958,low
+103,0,Mr,Richard Frasar,White,male,21.0,Young Adult,0,1,35281,1,S,1,77.2875,very high
+104,0,Mr,Gustaf Joel,Johansson,male,33.0,Young Adult,0,0,7540,3,S,0,8.6542,medium
+105,0,Mr,Anders Vilhelm,Gustafsson,male,37.0,Adult,2,0,3101276,3,S,0,7.925,low
+106,0,Mr,Stoytcho,Mionoff,male,28.0,Young Adult,0,0,349207,3,S,0,7.8958,low
+107,1,Miss,Anna Kristine,Salkjelsvik,female,21.0,Young Adult,0,0,343120,3,S,0,7.65,low
+108,1,Mr,Albert Johan,Moss,male,28.0,Young Adult,0,0,312991,3,S,0,7.775,low
+109,0,Mr,Tido,Rekic,male,38.0,Adult,0,0,349249,3,S,0,7.8958,low
+110,1,Miss,Bertha,Moran,female,28.0,Young Adult,1,0,371110,3,Q,0,24.15,high
+111,0,Mr,Walter Chamberlain,Porter,male,47.0,Adult,0,0,110465,1,S,1,52.0,very high
+112,0,Miss,Hileni,Zabour,female,14.5,Teenager,1,0,2665,3,C,0,14.4542,medium
+113,0,Mr,David John,Barton,male,22.0,Young Adult,0,0,324669,3,S,0,8.05,medium
+114,0,Miss,Katriina,Jussila,female,20.0,Young Adult,1,0,4136,3,S,0,9.825,medium
+115,0,Miss,Malake,Attalah,female,17.0,Teenager,0,0,2627,3,C,0,14.4583,high
+116,0,Mr,Edvard,Pekoniemi,male,21.0,Young Adult,0,0,STON/O 2 3101294,3,S,0,7.925,low
+117,0,Mr,Patrick,Connors,male,70.5,Senior,0,0,370369,3,Q,0,7.75,low
+118,0,Mr,William John Robert,Turpin,male,29.0,Young Adult,1,0,11668,2,S,0,21.0,high
+119,0,Mr,Quigg Edmond,Baxter,male,24.0,Young Adult,0,1,PC 17558,1,C,1,247.5208,very high
+120,0,Miss,Ellis Anna Maria,Andersson,female,2.0,Infant,4,2,347082,3,S,0,31.275,high
+121,0,Mr,Stanley George,Hickman,male,21.0,Young Adult,2,0,SOC 14879,2,S,0,73.5,very high
+122,0,Mr,Leonard Charles,Moore,male,28.0,Young Adult,0,0,A4 54510,3,S,0,8.05,medium
+123,0,Mr,Nicholas,Nasser,male,32.5,Young Adult,1,0,237736,2,C,0,30.0708,high
+124,1,Miss,Susan,Webber,female,32.5,Young Adult,0,0,27267,2,S,1,13.0,medium
+125,0,Mr,Percival Wayland,White,male,54.0,Middle Aged,0,1,35281,1,S,1,77.2875,very high
+126,1,Master,Elias,Nicola-Yarred,male,12.0,Child,1,0,2651,3,C,0,11.2417,medium
+127,0,Mr,Martin,McMahon,male,28.0,Young Adult,0,0,370372,3,Q,0,7.75,low
+128,1,Mr,Fridtjof Arne,Madsen,male,24.0,Young Adult,0,0,C 17369,3,S,0,7.1417,low
+129,1,Miss,Anna,Peter,female,28.0,Young Adult,1,1,2668,3,C,1,22.3583,high
+130,0,Mr,Johan,Ekstrom,male,45.0,Adult,0,0,347061,3,S,0,6.975,low
+131,0,Mr,Jozef,Drazenoic,male,33.0,Young Adult,0,0,349241,3,C,0,7.8958,low
+132,0,Mr,Domingos Fernandeo,Coelho,male,20.0,Young Adult,0,0,SOTON/OQ 3101307,3,S,0,7.05,low
+133,0,Mrs,Grace Charity Laury,Robins,female,47.0,Adult,1,0,A/5 3337,3,S,0,14.5,high
+134,1,Mrs,Mathilde Francoise Pede,Weisz,female,29.0,Young Adult,1,0,228414,2,S,0,26.0,high
+135,0,Mr,Samuel James Hayden,Sobey,male,25.0,Young Adult,0,0,CA 29178,2,S,0,13.0,medium
+136,0,Mr,Emile,Richard,male,23.0,Young Adult,0,0,SC/PARIS 2133,2,C,0,15.0458,high
+137,1,Miss,Helen Monypeny,Newsom,female,19.0,Teenager,0,2,11752,1,S,1,26.2833,high
+138,0,Mr,Jacques Heath,Futrelle,male,37.0,Adult,1,0,113803,1,S,1,53.1,very high
+139,0,Mr,Olaf Elon,Osen,male,16.0,Teenager,0,0,7534,3,S,0,9.2167,medium
+140,0,Mr,Victor,Giglio,male,24.0,Young Adult,0,0,PC 17593,1,C,1,79.2,very high
+141,0,Mrs,Sultana,Boulos,female,28.0,Young Adult,0,2,2678,3,C,0,15.2458,high
+142,1,Miss,Anna Sofia,Nysten,female,22.0,Young Adult,0,0,347081,3,S,0,7.75,low
+143,1,Mrs,Elin Matilda Dolck,Hakkarainen,female,24.0,Young Adult,1,0,STON/O2 3101279,3,S,0,15.85,high
+144,0,Mr,Jeremiah,Burke,male,19.0,Teenager,0,0,365222,3,Q,0,6.75,low
+145,0,Mr,Edgardo Samuel,Andrew,male,18.0,Teenager,0,0,231945,2,S,0,11.5,medium
+146,0,Mr,Joseph Charles,Nicholls,male,19.0,Teenager,1,1,CA 33112,2,S,0,36.75,very high
+147,1,Mr,"August Edvard (""Wennerstrom"")",Andersson,male,27.0,Young Adult,0,0,350043,3,S,0,7.7958,low
+148,0,Miss,"Robina Maggie ""Ruby""",Ford,female,9.0,Child,2,2,W/C 6608,3,S,0,34.375,very high
+149,0,Mr,"Michel (""Louis M Hoffman"")",Navratil,male,36.5,Adult,0,2,230080,2,S,1,26.0,high
+150,0,Rev,Thomas Roussel Davids,Byles,male,42.0,Adult,0,0,244310,2,S,0,13.0,medium
+151,0,Rev,Robert James,Bateman,male,51.0,Middle Aged,0,0,SOP 1166,2,S,0,12.525,medium
+152,1,Mrs,Edith Wearne,Pears,female,22.0,Young Adult,1,0,113776,1,S,1,66.6,very high
+153,0,Mr,Alfonzo,Meo,male,55.5,Middle Aged,0,0,A5 11206,3,S,0,8.05,medium
+154,0,Mr,Austin Blyler,van Billiard,male,40.5,Adult,0,2,A/5 851,3,S,0,14.5,high
+155,0,Mr,Ole Martin,Olsen,male,28.0,Young Adult,0,0,Fa 265302,3,S,0,7.3125,low
+156,0,Mr,Charles Duane,Williams,male,51.0,Middle Aged,0,1,PC 17597,1,C,0,61.3792,very high
+157,1,Miss,"Katherine ""Katie""",Gilnagh,female,16.0,Teenager,0,0,35851,3,Q,0,7.7333,low
+158,0,Mr,Harry,Corn,male,30.0,Young Adult,0,0,SOTON/OQ 392090,3,S,0,8.05,medium
+159,0,Mr,Mile,Smiljanic,male,28.0,Young Adult,0,0,315037,3,S,0,8.6625,medium
+160,0,Master,Thomas Henry,Sage,male,28.0,Young Adult,8,2,CA 2343,3,S,0,69.55,very high
+161,0,Mr,John Hatfield,Cribb,male,44.0,Adult,0,1,371362,3,S,0,16.1,high
+162,1,Mrs,"Elizabeth ""Bessie"" Inglis Milne",Watt,female,40.0,Adult,0,0,CA 33595,2,S,0,15.75,high
+163,0,Mr,John Viktor,Bengtsson,male,26.0,Young Adult,0,0,347068,3,S,0,7.775,low
+164,0,Mr,Jovo,Calic,male,17.0,Teenager,0,0,315093,3,S,0,8.6625,medium
+165,0,Master,Eino Viljami,Panula,male,1.0,Infant,4,1,3101295,3,S,0,39.6875,very high
+166,1,Master,"Frank John William ""Frankie""",Goldsmith,male,9.0,Child,0,2,363291,3,S,0,20.525,high
+167,1,Mrs,Edith Martha Bowerman,Chibnall,female,28.0,Young Adult,0,1,113505,1,S,1,55.0,very high
+168,0,Mrs,Anna Bernhardina Karlsson,Skoog,female,45.0,Adult,1,4,347088,3,S,0,27.9,high
+169,0,Mr,John D,Baumann,male,28.0,Young Adult,0,0,PC 17318,1,S,0,25.925,high
+170,0,Mr,Lee,Ling,male,28.0,Young Adult,0,0,1601,3,S,0,56.4958,very high
+171,0,Mr,Wyckoff,Van der hoef,male,61.0,Senior,0,0,111240,1,S,1,33.5,very high
+172,0,Master,Arthur,Rice,male,4.0,Child,4,1,382652,3,Q,0,29.125,high
+173,1,Miss,Eleanor Ileen,Johnson,female,1.0,Infant,1,1,347742,3,S,0,11.1333,medium
+174,0,Mr,Antti Wilhelm,Sivola,male,21.0,Young Adult,0,0,STON/O 2 3101280,3,S,0,7.925,low
+175,0,Mr,James Clinch,Smith,male,56.0,Middle Aged,0,0,17764,1,C,1,30.6958,high
+176,0,Mr,Klas Albin,Klasen,male,18.0,Teenager,1,1,350404,3,S,0,7.8542,low
+177,0,Master,Henry Forbes,Lefebre,male,28.0,Young Adult,3,1,4133,3,S,0,25.4667,high
+178,0,Miss,Ann Elizabeth,Isham,female,50.0,Adult,0,0,PC 17595,1,C,1,28.7125,high
+179,0,Mr,Reginald,Hale,male,30.0,Young Adult,0,0,250653,2,S,0,13.0,medium
+180,0,Mr,Lionel,Leonard,male,36.0,Adult,0,0,LINE,3,S,0,14.4542,medium
+181,0,Miss,Constance Gladys,Sage,female,28.0,Young Adult,8,2,CA 2343,3,S,0,69.55,very high
+182,0,Mr,Rene,Pernot,male,28.0,Young Adult,0,0,SC/PARIS 2131,2,C,0,15.05,high
+183,0,Master,Clarence Gustaf Hugo,Asplund,male,9.0,Child,4,2,347077,3,S,0,31.3875,very high
+184,1,Master,Richard F,Becker,male,1.0,Infant,2,1,230136,2,S,1,39.0,very high
+185,1,Miss,Luise Gretchen,Kink-Heilmann,female,4.0,Child,0,2,315153,3,S,0,22.025,high
+186,0,Mr,Hugh Roscoe,Rood,male,28.0,Young Adult,0,0,113767,1,S,1,50.0,very high
+187,1,Mrs,"Johanna ""Hannah"" Godfrey",O'Brien,female,28.0,Young Adult,1,0,370365,3,Q,0,15.5,high
+188,1,Mr,"Charles Hallace (""Mr C Rolmane"")",Romaine,male,45.0,Adult,0,0,111428,1,S,0,26.55,high
+189,0,Mr,John,Bourke,male,40.0,Adult,1,1,364849,3,Q,0,15.5,high
+190,0,Mr,Stjepan,Turcin,male,36.0,Adult,0,0,349247,3,S,0,7.8958,low
+191,1,Mrs,Rosa,Pinsky,female,32.0,Young Adult,0,0,234604,2,S,0,13.0,medium
+192,0,Mr,William,Carbines,male,19.0,Teenager,0,0,28424,2,S,0,13.0,medium
+193,1,Miss,Carla Christine Nielsine,Andersen-Jensen,female,19.0,Teenager,1,0,350046,3,S,0,7.8542,low
+194,1,Master,Michel M,Navratil,male,3.0,Child,1,1,230080,2,S,1,26.0,high
+195,1,Mrs,Margaret Tobin,Brown,female,44.0,Adult,0,0,PC 17610,1,C,1,27.7208,high
+196,1,Miss,Elise,Lurette,female,58.0,Middle Aged,0,0,PC 17569,1,C,1,146.5208,very high
+197,0,Mr,Robert,Mernagh,male,28.0,Young Adult,0,0,368703,3,Q,0,7.75,low
+198,0,Mr,Karl Siegwart Andreas,Olsen,male,42.0,Adult,0,1,4579,3,S,0,8.4042,medium
+199,1,Miss,"Margaret ""Maggie""",Madigan,female,28.0,Young Adult,0,0,370370,3,Q,0,7.75,low
+200,0,Miss,"Henriette (""Mrs Harbeck"")",Yrois,female,24.0,Young Adult,0,0,248747,2,S,0,13.0,medium
+201,0,Mr,Nestor Cyriel,Vande Walle,male,28.0,Young Adult,0,0,345770,3,S,0,9.5,medium
+202,0,Mr,Frederick,Sage,male,28.0,Young Adult,8,2,CA 2343,3,S,0,69.55,very high
+203,0,Mr,Jakob Alfred,Johanson,male,34.0,Young Adult,0,0,3101264,3,S,0,6.4958,low
+204,0,Mr,Gerious,Youseff,male,45.5,Adult,0,0,2628,3,C,0,7.225,low
+205,1,Mr,"Gurshon ""Gus""",Cohen,male,18.0,Teenager,0,0,A/5 3540,3,S,0,8.05,medium
+206,0,Miss,Telma Matilda,Strom,female,2.0,Infant,0,1,347054,3,S,1,10.4625,medium
+207,0,Mr,Karl Alfred,Backstrom,male,32.0,Young Adult,1,0,3101278,3,S,0,15.85,high
+208,1,Mr,Nassef Cassem,Albimona,male,26.0,Young Adult,0,0,2699,3,C,0,18.7875,high
+209,1,Miss,"Helen ""Ellen""",Carr,female,16.0,Teenager,0,0,367231,3,Q,0,7.75,low
+210,1,Mr,Henry,Blank,male,40.0,Adult,0,0,112277,1,C,1,31.0,high
+211,0,Mr,Ahmed,Ali,male,24.0,Young Adult,0,0,SOTON/OQ 3101311,3,S,0,7.05,low
+212,1,Miss,Clear Annie,Cameron,female,35.0,Young Adult,0,0,FCC 13528,2,S,0,21.0,high
+213,0,Mr,John Henry,Perkin,male,22.0,Young Adult,0,0,A/5 21174,3,S,0,7.25,low
+214,0,Mr,Hans Kristensen,Givard,male,30.0,Young Adult,0,0,250646,2,S,0,13.0,medium
+215,0,Mr,Philip,Kiernan,male,28.0,Young Adult,1,0,367229,3,Q,0,7.75,low
+216,1,Miss,Madeleine,Newell,female,31.0,Young Adult,1,0,35273,1,C,1,113.275,very high
+217,1,Miss,Eliina,Honkanen,female,27.0,Young Adult,0,0,STON/O2 3101283,3,S,0,7.925,low
+218,0,Mr,Sidney Samuel,Jacobsohn,male,42.0,Adult,1,0,243847,2,S,0,27.0,high
+219,1,Miss,Albina,Bazzani,female,32.0,Young Adult,0,0,11813,1,C,1,76.2917,very high
+220,0,Mr,Walter,Harris,male,30.0,Young Adult,0,0,W/C 14208,2,S,0,10.5,medium
+221,1,Mr,Victor Francis,Sunderland,male,16.0,Teenager,0,0,SOTON/OQ 392089,3,S,0,8.05,medium
+222,0,Mr,James H,Bracken,male,27.0,Young Adult,0,0,220367,2,S,0,13.0,medium
+223,0,Mr,George Henry,Green,male,51.0,Middle Aged,0,0,21440,3,S,0,8.05,medium
+224,0,Mr,Christo,Nenkoff,male,28.0,Young Adult,0,0,349234,3,S,0,7.8958,low
+225,1,Mr,Frederick Maxfield,Hoyt,male,38.0,Adult,1,0,19943,1,S,1,90.0,very high
+226,0,Mr,Karl Ivar Sven,Berglund,male,22.0,Young Adult,0,0,PP 4348,3,S,0,9.35,medium
+227,1,Mr,William John,Mellors,male,19.0,Teenager,0,0,SW/PP 751,2,S,0,10.5,medium
+228,0,Mr,"John Hall (""Henry"")",Lovell,male,20.5,Young Adult,0,0,A/5 21173,3,S,0,7.25,low
+229,0,Mr,Arne Jonas,Fahlstrom,male,18.0,Teenager,0,0,236171,2,S,0,13.0,medium
+230,0,Miss,Mathilde,Lefebre,female,28.0,Young Adult,3,1,4133,3,S,0,25.4667,high
+231,1,Mrs,Irene Wallach,Harris,female,35.0,Young Adult,1,0,36973,1,S,1,83.475,very high
+232,0,Mr,Bengt Edvin,Larsson,male,29.0,Young Adult,0,0,347067,3,S,0,7.775,low
+233,0,Mr,Ernst Adolf,Sjostedt,male,59.0,Middle Aged,0,0,237442,2,S,0,13.5,medium
+234,1,Miss,Lillian Gertrud,Asplund,female,5.0,Child,4,2,347077,3,S,0,31.3875,very high
+235,0,Mr,Robert William Norman,Leyson,male,24.0,Young Adult,0,0,CA 29566,2,S,0,10.5,medium
+236,0,Miss,Alice Phoebe,Harknett,female,28.0,Young Adult,0,0,W/C 6609,3,S,0,7.55,low
+237,0,Mr,Stephen,Hold,male,44.0,Adult,1,0,26707,2,S,0,26.0,high
+238,1,Miss,"Marjorie ""Lottie""",Collyer,female,8.0,Child,0,2,CA 31921,2,S,0,26.25,high
+239,0,Mr,Frederick William,Pengelly,male,19.0,Teenager,0,0,28665,2,S,0,10.5,medium
+240,0,Mr,George Henry,Hunt,male,33.0,Young Adult,0,0,SCO/W 1585,2,S,0,12.275,medium
+241,0,Miss,Thamine,Zabour,female,28.0,Young Adult,1,0,2665,3,C,0,14.4542,medium
+242,1,Miss,"Katherine ""Kate""",Murphy,female,28.0,Young Adult,1,0,367230,3,Q,0,15.5,high
+243,0,Mr,Reginald Charles,Coleridge,male,29.0,Young Adult,0,0,W/C 14263,2,S,0,10.5,medium
+244,0,Mr,Matti Alexanteri,Maenpaa,male,22.0,Young Adult,0,0,STON/O 2 3101275,3,S,0,7.125,low
+245,0,Mr,Sleiman,Attalah,male,30.0,Young Adult,0,0,2694,3,C,0,7.225,low
+246,0,Dr,William Edward,Minahan,male,44.0,Adult,2,0,19928,1,Q,1,90.0,very high
+247,0,Miss,Agda Thorilda Viktoria,Lindahl,female,25.0,Young Adult,0,0,347071,3,S,0,7.775,low
+248,1,Mrs,Anna,Hamalainen,female,24.0,Young Adult,0,2,250649,2,S,0,14.5,high
+249,1,Mr,Richard Leonard,Beckwith,male,37.0,Adult,1,1,11751,1,S,1,52.5542,very high
+250,0,Rev,Ernest Courtenay,Carter,male,54.0,Middle Aged,1,0,244252,2,S,0,26.0,high
+251,0,Mr,James George,Reed,male,28.0,Young Adult,0,0,362316,3,S,0,7.25,low
+252,0,Mrs,Elna Matilda Persson,Strom,female,29.0,Young Adult,1,1,347054,3,S,1,10.4625,medium
+253,0,Mr,William Thomas,Stead,male,62.0,Senior,0,0,113514,1,S,1,26.55,high
+254,0,Mr,William Arthur,Lobb,male,30.0,Young Adult,1,0,A/5 3336,3,S,0,16.1,high
+255,0,Mrs,Helena Wilhelmina,Rosblom,female,41.0,Adult,0,2,370129,3,S,0,20.2125,high
+256,1,Mrs,Hanne Youssef Razi,Touma,female,29.0,Young Adult,0,2,2650,3,C,0,15.2458,high
+258,1,Miss,Gladys,Cherry,female,30.0,Young Adult,0,0,110152,1,S,1,86.5,very high
+259,1,Miss,Anna,Ward,female,35.0,Young Adult,0,0,PC 17755,1,C,0,512.3292,very high
+260,1,Mrs,Lutie Davis,Parrish,female,50.0,Adult,0,1,230433,2,S,0,26.0,high
+261,0,Mr,Thomas,Smith,male,28.0,Young Adult,0,0,384461,3,Q,0,7.75,low
+262,1,Master,Edvin Rojj Felix,Asplund,male,3.0,Child,4,2,347077,3,S,0,31.3875,very high
+263,0,Mr,Emil,Taussig,male,52.0,Middle Aged,1,1,110413,1,S,1,79.65,very high
+264,0,Mr,William,Harrison,male,40.0,Adult,0,0,112059,1,S,1,14.4542,medium
+265,0,Miss,Delia,Henry,female,28.0,Young Adult,0,0,382649,3,Q,0,7.75,low
+266,0,Mr,David,Reeves,male,36.0,Adult,0,0,CA 17248,2,S,0,10.5,medium
+267,0,Mr,Ernesti Arvid,Panula,male,16.0,Teenager,4,1,3101295,3,S,0,39.6875,very high
+268,1,Mr,Ernst Ulrik,Persson,male,25.0,Young Adult,1,0,347083,3,S,0,7.775,low
+269,1,Mrs,Edith Junkins,Graham,female,58.0,Middle Aged,0,1,PC 17582,1,S,1,153.4625,very high
+270,1,Miss,Amelia,Bissette,female,35.0,Young Adult,0,0,PC 17760,1,S,1,135.6333,very high
+271,0,Mr,Alexander,Cairns,male,28.0,Young Adult,0,0,113798,1,S,0,31.0,high
+272,1,Mr,William Henry,Tornquist,male,25.0,Young Adult,0,0,LINE,3,S,0,14.4542,medium
+273,1,Mrs,Elizabeth Anne Maidment,Mellinger,female,41.0,Adult,0,1,250644,2,S,0,19.5,high
+274,0,Mr,Charles H,Natsch,male,37.0,Adult,0,1,PC 17596,1,C,1,29.7,high
+275,1,Miss,"Hanora ""Nora""",Healy,female,28.0,Young Adult,0,0,370375,3,Q,0,7.75,low
+276,1,Miss,Kornelia Theodosia,Andrews,female,63.0,Senior,1,0,13502,1,S,1,77.9583,very high
+277,0,Miss,Augusta Charlotta,Lindblom,female,45.0,Adult,0,0,347073,3,S,0,7.75,low
+278,0,Mr,"Francis ""Frank""",Parkes,male,28.0,Young Adult,0,0,239853,2,S,0,14.4542,medium
+279,0,Master,Eric,Rice,male,7.0,Child,4,1,382652,3,Q,0,29.125,high
+280,1,Mrs,Rosa Hunt,Abbott,female,35.0,Young Adult,1,1,CA 2673,3,S,0,20.25,high
+281,0,Mr,Frank,Duane,male,65.0,Senior,0,0,336439,3,Q,0,7.75,low
+282,0,Mr,Nils Johan Goransson,Olsson,male,28.0,Young Adult,0,0,347464,3,S,0,7.8542,low
+283,0,Mr,Alfons,de Pelsmaeker,male,16.0,Teenager,0,0,345778,3,S,0,9.5,medium
+284,1,Mr,Edward Arthur,Dorking,male,19.0,Teenager,0,0,A/5 10482,3,S,0,8.05,medium
+285,0,Mr,Richard William,Smith,male,28.0,Young Adult,0,0,113056,1,S,1,26.0,high
+286,0,Mr,Ivan,Stankovic,male,33.0,Young Adult,0,0,349239,3,C,0,8.6625,medium
+287,1,Mr,Theodore,de Mulder,male,30.0,Young Adult,0,0,345774,3,S,0,9.5,medium
+288,0,Mr,Penko,Naidenoff,male,22.0,Young Adult,0,0,349206,3,S,0,7.8958,low
+289,1,Mr,Masabumi,Hosono,male,42.0,Adult,0,0,237798,2,S,0,13.0,medium
+290,1,Miss,Kate,Connolly,female,22.0,Young Adult,0,0,370373,3,Q,0,7.75,low
+291,1,Miss,"Ellen ""Nellie""",Barber,female,26.0,Young Adult,0,0,19877,1,S,0,78.85,very high
+292,1,Mrs,Helen Walton,Bishop,female,19.0,Teenager,1,0,11967,1,C,1,91.0792,very high
+293,0,Mr,Rene Jacques,Levy,male,36.0,Adult,0,0,SC/Paris 2163,2,C,1,12.875,medium
+294,0,Miss,Aloisia,Haas,female,24.0,Young Adult,0,0,349236,3,S,0,8.85,medium
+295,0,Mr,Ivan,Mineff,male,24.0,Young Adult,0,0,349233,3,S,0,7.8958,low
+296,0,Mr,Ervin G,Lewy,male,28.0,Young Adult,0,0,PC 17612,1,C,0,27.7208,high
+297,0,Mr,Mansour,Hanna,male,23.5,Young Adult,0,0,2693,3,C,0,7.2292,low
+298,0,Miss,Helen Loraine,Allison,female,2.0,Infant,1,2,113781,1,S,1,151.55,very high
+299,1,Mr,Adolphe,Saalfeld,male,28.0,Young Adult,0,0,19988,1,S,1,30.5,high
+300,1,Mrs,Helene DeLaudeniere Chaput,Baxter,female,50.0,Adult,0,1,PC 17558,1,C,1,247.5208,very high
+301,1,Miss,"Anna Katherine ""Annie Kate""",Kelly,female,28.0,Young Adult,0,0,9234,3,Q,0,7.75,low
+302,1,Mr,Bernard,McCoy,male,28.0,Young Adult,2,0,367226,3,Q,0,23.25,high
+303,0,Mr,William Cahoone Jr,Johnson,male,19.0,Teenager,0,0,LINE,3,S,0,14.4542,medium
+304,1,Miss,Nora A,Keane,female,28.0,Young Adult,0,0,226593,2,Q,1,12.35,medium
+305,0,Mr,"Howard Hugh ""Harry""",Williams,male,28.0,Young Adult,0,0,A/5 2466,3,S,0,8.05,medium
+306,1,Master,Hudson Trevor,Allison,male,0.92,Infant,1,2,113781,1,S,1,151.55,very high
+307,1,Miss,Margaret,Fleming,female,28.0,Young Adult,0,0,17421,1,C,0,110.8833,very high
+308,1,Mrs,Maria Josefa Perez de Soto y Vallejo,Penasco y Castellana,female,17.0,Teenager,1,0,PC 17758,1,C,1,108.9,very high
+309,0,Mr,Samuel,Abelson,male,30.0,Young Adult,1,0,P/PP 3381,2,C,0,24.0,high
+310,1,Miss,Laura Mabel,Francatelli,female,30.0,Young Adult,0,0,PC 17485,1,C,1,56.9292,very high
+311,1,Miss,Margaret Bechstein,Hays,female,24.0,Young Adult,0,0,11767,1,C,1,83.1583,very high
+312,1,Miss,Emily Borie,Ryerson,female,18.0,Teenager,2,2,PC 17608,1,C,1,262.375,very high
+313,0,Mrs,Anna Sylfven,Lahtinen,female,26.0,Young Adult,1,1,250651,2,S,0,26.0,high
+314,0,Mr,Ignjac,Hendekovic,male,28.0,Young Adult,0,0,349243,3,S,0,7.8958,low
+315,0,Mr,Benjamin,Hart,male,43.0,Adult,1,1,FCC 13529,2,S,0,26.25,high
+316,1,Miss,Helmina Josefina,Nilsson,female,26.0,Young Adult,0,0,347470,3,S,0,7.8542,low
+317,1,Mrs,Miriam Sternin,Kantor,female,24.0,Young Adult,1,0,244367,2,S,0,26.0,high
+318,0,Dr,Ernest,Moraweck,male,54.0,Middle Aged,0,0,29011,2,S,0,14.0,medium
+319,1,Miss,Mary Natalie,Wick,female,31.0,Young Adult,0,2,36928,1,S,1,164.8667,very high
+320,1,Mrs,Margaretta Corning Stone,Spedden,female,40.0,Adult,1,1,16966,1,C,1,134.5,very high
+321,0,Mr,Samuel,Dennis,male,22.0,Young Adult,0,0,A/5 21172,3,S,0,7.25,low
+322,0,Mr,Yoto,Danoff,male,27.0,Young Adult,0,0,349219,3,S,0,7.8958,low
+323,1,Miss,Hilda Mary,Slayter,female,30.0,Young Adult,0,0,234818,2,Q,0,12.35,medium
+324,1,Mrs,Sylvia Mae Harbaugh,Caldwell,female,22.0,Young Adult,1,1,248738,2,S,0,29.0,high
+325,0,Mr,George John Jr,Sage,male,28.0,Young Adult,8,2,CA 2343,3,S,0,69.55,very high
+326,1,Miss,Marie Grice,Young,female,36.0,Adult,0,0,PC 17760,1,C,1,135.6333,very high
+327,0,Mr,Johan Hansen,Nysveen,male,61.0,Senior,0,0,345364,3,S,0,6.2375,low
+328,1,Mrs,Ada E Hall,Ball,female,36.0,Adult,0,0,28551,2,S,1,13.0,medium
+329,1,Mrs,Emily Alice Brown,Goldsmith,female,31.0,Young Adult,1,1,363291,3,S,0,20.525,high
+330,1,Miss,Jean Gertrude,Hippach,female,16.0,Teenager,0,1,111361,1,C,1,57.9792,very high
+331,1,Miss,Agnes,McCoy,female,28.0,Young Adult,2,0,367226,3,Q,0,23.25,high
+332,0,Mr,Austen,Partner,male,45.5,Adult,0,0,113043,1,S,1,28.5,high
+333,0,Mr,George Edward,Graham,male,38.0,Adult,0,1,PC 17582,1,S,1,153.4625,very high
+334,0,Mr,Leo Edmondus,Vander Planke,male,16.0,Teenager,2,0,345764,3,S,0,18.0,high
+335,1,Mrs,Clara Heinsheimer,Frauenthal,female,28.0,Young Adult,1,0,PC 17611,1,S,0,133.65,very high
+336,0,Mr,Mitto,Denkoff,male,28.0,Young Adult,0,0,349225,3,S,0,7.8958,low
+337,0,Mr,Thomas Clinton,Pears,male,29.0,Young Adult,1,0,113776,1,S,1,66.6,very high
+338,1,Miss,Elizabeth Margaret,Burns,female,41.0,Adult,0,0,16966,1,C,1,134.5,very high
+339,1,Mr,Karl Edwart,Dahl,male,45.0,Adult,0,0,7598,3,S,0,8.05,medium
+340,0,Mr,Stephen Weart,Blackwell,male,45.0,Adult,0,0,113784,1,S,1,35.5,very high
+341,1,Master,Edmond Roger,Navratil,male,2.0,Infant,1,1,230080,2,S,1,26.0,high
+342,1,Miss,Alice Elizabeth,Fortune,female,24.0,Young Adult,3,2,19950,1,S,1,263.0,very high
+343,0,Mr,Erik Gustaf,Collander,male,28.0,Young Adult,0,0,248740,2,S,0,13.0,medium
+344,0,Mr,Charles Frederick Waddington,Sedgwick,male,25.0,Young Adult,0,0,244361,2,S,0,13.0,medium
+345,0,Mr,Stanley Hubert,Fox,male,36.0,Adult,0,0,229236,2,S,0,13.0,medium
+346,1,Miss,"Amelia ""Mildred""",Brown,female,24.0,Young Adult,0,0,248733,2,S,1,13.0,medium
+347,1,Miss,Marion Elsie,Smith,female,40.0,Adult,0,0,31418,2,S,0,13.0,medium
+348,1,Mrs,Mary E Finck,Davison,female,28.0,Young Adult,1,0,386525,3,S,0,16.1,high
+349,1,Master,"William Loch ""William""",Coutts,male,3.0,Child,1,1,CA 37671,3,S,0,15.9,high
+350,0,Mr,Jovan,Dimic,male,42.0,Adult,0,0,315088,3,S,0,8.6625,medium
+351,0,Mr,Nils Martin,Odahl,male,23.0,Young Adult,0,0,7267,3,S,0,9.225,medium
+352,0,Mr,Fletcher Fellows,Williams-Lambert,male,28.0,Young Adult,0,0,113510,1,S,1,35.0,very high
+353,0,Mr,Tannous,Elias,male,15.0,Teenager,1,1,2695,3,C,0,7.2292,low
+354,0,Mr,Josef,Arnold-Franchi,male,25.0,Young Adult,1,0,349237,3,S,0,17.8,high
+355,0,Mr,Wazli,Yousif,male,28.0,Young Adult,0,0,2647,3,C,0,7.225,low
+356,0,Mr,Leo Peter,Vanden Steen,male,28.0,Young Adult,0,0,345783,3,S,0,9.5,medium
+357,1,Miss,Elsie Edith,Bowerman,female,22.0,Young Adult,0,1,113505,1,S,1,55.0,very high
+358,0,Miss,Annie Clemmer,Funk,female,38.0,Adult,0,0,237671,2,S,0,13.0,medium
+359,1,Miss,Mary,McGovern,female,28.0,Young Adult,0,0,330931,3,Q,0,7.8792,low
+360,1,Miss,"Helen Mary ""Ellie""",Mockler,female,28.0,Young Adult,0,0,330980,3,Q,0,7.8792,low
+361,0,Mr,Wilhelm,Skoog,male,40.0,Adult,1,4,347088,3,S,0,27.9,high
+362,0,Mr,Sebastiano,del Carlo,male,29.0,Young Adult,1,0,SC/PARIS 2167,2,C,0,27.7208,high
+363,0,Mrs,Catherine David,Barbara,female,45.0,Adult,0,1,2691,3,C,0,14.4542,medium
+364,0,Mr,Adola,Asim,male,35.0,Young Adult,0,0,SOTON/OQ 3101310,3,S,0,7.05,low
+365,0,Mr,Thomas,O'Brien,male,28.0,Young Adult,1,0,370365,3,Q,0,15.5,high
+366,0,Mr,Mauritz Nils Martin,Adahl,male,30.0,Young Adult,0,0,C 7076,3,S,0,7.25,low
+367,1,Mrs,Anna Sophia Atkinson,Warren,female,60.0,Middle Aged,1,0,110813,1,C,1,75.25,very high
+368,1,Mrs,Mantoura Boulos,Moussa,female,28.0,Young Adult,0,0,2626,3,C,0,7.2292,low
+369,1,Miss,Annie,Jermyn,female,28.0,Young Adult,0,0,14313,3,Q,0,7.75,low
+371,1,Mr,George Achilles,Harder,male,25.0,Young Adult,1,0,11765,1,C,1,55.4417,very high
+372,0,Mr,Jakob Alfred,Wiklund,male,18.0,Teenager,1,0,3101267,3,S,0,6.4958,low
+373,0,Mr,William Thomas,Beavan,male,19.0,Teenager,0,0,323951,3,S,0,8.05,medium
+374,0,Mr,Sante,Ringhini,male,22.0,Young Adult,0,0,PC 17760,1,C,0,135.6333,very high
+375,0,Miss,Stina Viola,Palsson,female,3.0,Child,3,1,349909,3,S,0,21.075,high
+376,1,Mrs,Leila Saks,Meyer,female,28.0,Young Adult,1,0,PC 17604,1,C,0,82.1708,very high
+377,1,Miss,Aurora Adelia,Landergren,female,22.0,Young Adult,0,0,C 7077,3,S,0,7.25,low
+378,0,Mr,Harry Elkins,Widener,male,27.0,Young Adult,0,2,113503,1,C,1,211.5,very high
+379,0,Mr,Tannous,Betros,male,20.0,Young Adult,0,0,2648,3,C,0,4.0125,low
+380,0,Mr,Karl Gideon,Gustafsson,male,19.0,Teenager,0,0,347069,3,S,0,7.775,low
+381,1,Miss,Rosalie,Bidois,female,42.0,Adult,0,0,PC 17757,1,C,0,227.525,very high
+382,1,Miss,"Maria (""Mary"")",Nakid,female,1.0,Infant,0,2,2653,3,C,0,15.7417,high
+383,0,Mr,Juho,Tikkanen,male,32.0,Young Adult,0,0,STON/O 2 3101293,3,S,0,7.925,low
+384,1,Mrs,Mary Aline Towner,Holverson,female,35.0,Young Adult,1,0,113789,1,S,0,52.0,very high
+385,0,Mr,Vasil,Plotcharsky,male,28.0,Young Adult,0,0,349227,3,S,0,7.8958,low
+386,0,Mr,Charles Henry,Davies,male,18.0,Teenager,0,0,SOC 14879,2,S,0,73.5,very high
+387,0,Master,Sidney Leonard,Goodwin,male,1.0,Infant,5,2,CA 2144,3,S,0,46.9,very high
+388,1,Miss,Kate,Buss,female,36.0,Adult,0,0,27849,2,S,0,13.0,medium
+389,0,Mr,Matthew,Sadlier,male,28.0,Young Adult,0,0,367655,3,Q,0,7.7292,low
+390,1,Miss,Bertha,Lehmann,female,17.0,Teenager,0,0,SC 1748,2,C,0,12.0,medium
+391,1,Mr,William Ernest,Carter,male,36.0,Adult,1,2,113760,1,S,1,120.0,very high
+392,1,Mr,Carl Olof,Jansson,male,21.0,Young Adult,0,0,350034,3,S,0,7.7958,low
+393,0,Mr,Johan Birger,Gustafsson,male,28.0,Young Adult,2,0,3101277,3,S,0,7.925,low
+394,1,Miss,Marjorie,Newell,female,23.0,Young Adult,1,0,35273,1,C,1,113.275,very high
+395,1,Mrs,Agnes Charlotta Bengtsson,Sandstrom,female,24.0,Young Adult,0,2,PP 9549,3,S,1,16.7,high
+396,0,Mr,Erik,Johansson,male,22.0,Young Adult,0,0,350052,3,S,0,7.7958,low
+397,0,Miss,Elina,Olsson,female,31.0,Young Adult,0,0,350407,3,S,0,7.8542,low
+398,0,Mr,Peter David,McKane,male,46.0,Adult,0,0,28403,2,S,0,26.0,high
+399,0,Dr,Alfred,Pain,male,23.0,Young Adult,0,0,244278,2,S,0,10.5,medium
+400,1,Mrs,Jessie L,Trout,female,28.0,Young Adult,0,0,240929,2,S,0,12.65,medium
+401,1,Mr,Juha,Niskanen,male,39.0,Adult,0,0,STON/O 2 3101289,3,S,0,7.925,low
+402,0,Mr,John,Adams,male,26.0,Young Adult,0,0,341826,3,S,0,8.05,medium
+403,0,Miss,Mari Aina,Jussila,female,21.0,Young Adult,1,0,4137,3,S,0,9.825,medium
+404,0,Mr,Pekka Pietari,Hakkarainen,male,28.0,Young Adult,1,0,STON/O2 3101279,3,S,0,15.85,high
+405,0,Miss,Marija,Oreskovic,female,20.0,Young Adult,0,0,315096,3,S,0,8.6625,medium
+406,0,Mr,Shadrach,Gale,male,34.0,Young Adult,1,0,28664,2,S,0,21.0,high
+407,0,Mr,Carl/Charles Peter,Widegren,male,51.0,Middle Aged,0,0,347064,3,S,0,7.75,low
+408,1,Master,William Rowe,Richards,male,3.0,Child,1,1,29106,2,S,0,18.75,high
+409,0,Mr,Hans Martin Monsen,Birkeland,male,21.0,Young Adult,0,0,312992,3,S,0,7.775,low
+410,0,Miss,Ida,Lefebre,female,28.0,Young Adult,3,1,4133,3,S,0,25.4667,high
+411,0,Mr,Todor,Sdycoff,male,28.0,Young Adult,0,0,349222,3,S,0,7.8958,low
+412,0,Mr,Henry,Hart,male,28.0,Young Adult,0,0,394140,3,Q,0,6.8583,low
+413,1,Miss,Daisy E,Minahan,female,33.0,Young Adult,1,0,19928,1,Q,1,90.0,very high
+414,0,Mr,Alfred Fleming,Cunningham,male,28.0,Young Adult,0,0,239853,2,S,0,14.4542,medium
+415,1,Mr,Johan Julian,Sundman,male,44.0,Adult,0,0,STON/O 2 3101269,3,S,0,7.925,low
+416,0,Mrs,Annie Louise Rowley,Meek,female,28.0,Young Adult,0,0,343095,3,S,0,8.05,medium
+417,1,Mrs,Lulu Thorne Christian,Drew,female,34.0,Young Adult,1,1,28220,2,S,0,32.5,very high
+418,1,Miss,Lyyli Karoliina,Silven,female,18.0,Teenager,0,2,250652,2,S,0,13.0,medium
+419,0,Mr,William John,Matthews,male,30.0,Young Adult,0,0,28228,2,S,0,13.0,medium
+420,0,Miss,Catharina,Van Impe,female,10.0,Child,0,2,345773,3,S,0,24.15,high
+421,0,Mr,Stanio,Gheorgheff,male,28.0,Young Adult,0,0,349254,3,C,0,7.8958,low
+422,0,Mr,David,Charters,male,21.0,Young Adult,0,0,A/5 13032,3,Q,0,7.7333,low
+423,0,Mr,Leo,Zimmerman,male,29.0,Young Adult,0,0,315082,3,S,0,7.875,low
+424,0,Mrs,Anna Sigrid Maria Brogren,Danbom,female,28.0,Young Adult,1,1,347080,3,S,0,14.4,medium
+425,0,Mr,Viktor Richard,Rosblom,male,18.0,Teenager,1,1,370129,3,S,0,20.2125,high
+426,0,Mr,Phillippe,Wiseman,male,28.0,Young Adult,0,0,A/4 34244,3,S,0,7.25,low
+427,1,Mrs,Ada Maria Winfield,Clarke,female,28.0,Young Adult,1,0,2003,2,S,0,26.0,high
+428,1,Miss,"Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Phillips,female,19.0,Teenager,0,0,250655,2,S,0,26.0,high
+429,0,Mr,James,Flynn,male,28.0,Young Adult,0,0,364851,3,Q,0,7.75,low
+430,1,Mr,Berk (Berk Trembisky),Pickard,male,32.0,Young Adult,0,0,SOTON/OQ 392078,3,S,1,8.05,medium
+431,1,Mr,Mauritz Hakan,Bjornstrom-Steffansson,male,28.0,Young Adult,0,0,110564,1,S,1,26.55,high
+432,1,Mrs,Florence Kate White,Thorneycroft,female,28.0,Young Adult,1,0,376564,3,S,0,16.1,high
+433,1,Mrs,Alice Adelaide Slow,Louch,female,42.0,Adult,1,0,SC/AH 3085,2,S,0,26.0,high
+434,0,Mr,Nikolai Erland,Kallio,male,17.0,Teenager,0,0,STON/O 2 3101274,3,S,0,7.125,low
+435,0,Mr,William Baird,Silvey,male,50.0,Adult,1,0,13507,1,S,1,55.9,very high
+436,1,Miss,Lucile Polk,Carter,female,14.0,Teenager,1,2,113760,1,S,1,120.0,very high
+437,0,Miss,"Doolina Margaret ""Daisy""",Ford,female,21.0,Young Adult,2,2,W/C 6608,3,S,0,34.375,very high
+438,1,Mrs,Emily Hocking,Richards,female,24.0,Young Adult,2,3,29106,2,S,0,18.75,high
+439,0,Mr,Mark,Fortune,male,64.0,Senior,1,4,19950,1,S,1,263.0,very high
+440,0,Mr,Johan Henrik Johannesson,Kvillner,male,31.0,Young Adult,0,0,CA 18723,2,S,0,10.5,medium
+441,1,Mrs,Esther Ada Bloomfield,Hart,female,45.0,Adult,1,1,FCC 13529,2,S,0,26.25,high
+442,0,Mr,Leon,Hampe,male,20.0,Young Adult,0,0,345769,3,S,0,9.5,medium
+443,0,Mr,Johan Emil,Petterson,male,25.0,Young Adult,1,0,347076,3,S,0,7.775,low
+444,1,Ms,Encarnacion,Reynaldo,female,28.0,Young Adult,0,0,230434,2,S,0,13.0,medium
+445,1,Mr,Bernt,Johannesen-Bratthammer,male,28.0,Young Adult,0,0,65306,3,S,0,8.1125,medium
+446,1,Master,Washington,Dodge,male,4.0,Child,0,2,33638,1,S,1,81.8583,very high
+447,1,Miss,Madeleine Violet,Mellinger,female,13.0,Teenager,0,1,250644,2,S,0,19.5,high
+448,1,Mr,Frederic Kimber,Seward,male,34.0,Young Adult,0,0,113794,1,S,0,26.55,high
+449,1,Miss,Marie Catherine,Baclini,female,5.0,Child,2,1,2666,3,C,0,19.2583,high
+450,1,Major,Arthur Godfrey,Peuchen,male,52.0,Middle Aged,0,0,113786,1,S,1,30.5,high
+451,0,Mr,Edwy Arthur,West,male,36.0,Adult,1,2,CA 34651,2,S,0,27.75,high
+452,0,Mr,Ingvald Olai Olsen,Hagland,male,28.0,Young Adult,1,0,65303,3,S,0,19.9667,high
+453,0,Mr,Benjamin Laventall,Foreman,male,30.0,Young Adult,0,0,113051,1,C,1,27.75,high
+454,1,Mr,Samuel L,Goldenberg,male,49.0,Adult,1,0,17453,1,C,1,89.1042,very high
+455,0,Mr,Joseph,Peduzzi,male,28.0,Young Adult,0,0,A/5 2817,3,S,0,8.05,medium
+456,1,Mr,Ivan,Jalsevac,male,29.0,Young Adult,0,0,349240,3,C,0,7.8958,low
+457,0,Mr,Francis Davis,Millet,male,65.0,Senior,0,0,13509,1,S,1,26.55,high
+458,1,Mrs,Marion,Kenyon,female,28.0,Young Adult,1,0,17464,1,S,1,51.8625,very high
+459,1,Miss,Ellen,Toomey,female,50.0,Adult,0,0,FCC 13531,2,S,0,10.5,medium
+460,0,Mr,Maurice,O'Connor,male,28.0,Young Adult,0,0,371060,3,Q,0,7.75,low
+461,1,Mr,Harry,Anderson,male,48.0,Adult,0,0,19952,1,S,1,26.55,high
+462,0,Mr,William,Morley,male,34.0,Young Adult,0,0,364506,3,S,0,8.05,medium
+463,0,Mr,Arthur H,Gee,male,47.0,Adult,0,0,111320,1,S,1,38.5,very high
+464,0,Mr,Jacob Christian,Milling,male,48.0,Adult,0,0,234360,2,S,0,13.0,medium
+465,0,Mr,Simon,Maisner,male,28.0,Young Adult,0,0,A/S 2816,3,S,0,8.05,medium
+466,0,Mr,Manuel Estanslas,Goncalves,male,38.0,Adult,0,0,SOTON/OQ 3101306,3,S,0,7.05,low
+467,0,Mr,William,Campbell,male,28.0,Young Adult,0,0,239853,2,S,0,14.4542,medium
+468,0,Mr,John Montgomery,Smart,male,56.0,Middle Aged,0,0,113792,1,S,0,26.55,high
+469,0,Mr,James,Scanlan,male,28.0,Young Adult,0,0,36209,3,Q,0,7.725,low
+470,1,Miss,Helene Barbara,Baclini,female,0.75,Infant,2,1,2666,3,C,0,19.2583,high
+471,0,Mr,Arthur,Keefe,male,28.0,Young Adult,0,0,323592,3,S,0,7.25,low
+472,0,Mr,Luka,Cacic,male,38.0,Adult,0,0,315089,3,S,0,8.6625,medium
+473,1,Mrs,Ada Mary Worth,West,female,33.0,Young Adult,1,2,CA 34651,2,S,0,27.75,high
+474,1,Mrs,Marie Marthe Thuillard,Jerwan,female,23.0,Young Adult,0,0,SC/AH Basle 541,2,C,1,13.7917,medium
+475,0,Miss,Ida Sofia,Strandberg,female,22.0,Young Adult,0,0,7553,3,S,0,9.8375,medium
+476,0,Mr,George Quincy,Clifford,male,28.0,Young Adult,0,0,110465,1,S,1,52.0,very high
+477,0,Mr,Peter Henry,Renouf,male,34.0,Young Adult,1,0,31027,2,S,0,21.0,high
+478,0,Mr,Lewis Richard,Braund,male,29.0,Young Adult,1,0,3460,3,S,0,7.0458,low
+479,0,Mr,Nils August,Karlsson,male,22.0,Young Adult,0,0,350060,3,S,0,7.5208,low
+480,1,Miss,Hildur E,Hirvonen,female,2.0,Infant,0,1,3101298,3,S,0,12.2875,medium
+481,0,Master,Harold Victor,Goodwin,male,9.0,Child,5,2,CA 2144,3,S,0,46.9,very high
+482,0,Mr,"Anthony Wood ""Archie""",Frost,male,28.0,Young Adult,0,0,239854,2,S,0,14.4542,medium
+483,0,Mr,Richard Henry,Rouse,male,50.0,Adult,0,0,A/5 3594,3,S,0,8.05,medium
+484,1,Mrs,Hedwig,Turkula,female,63.0,Senior,0,0,4134,3,S,0,9.5875,medium
+485,1,Mr,Dickinson H,Bishop,male,25.0,Young Adult,1,0,11967,1,C,1,91.0792,very high
+486,0,Miss,Jeannie,Lefebre,female,28.0,Young Adult,3,1,4133,3,S,0,25.4667,high
+487,1,Mrs,Jane Anne Forby,Hoyt,female,35.0,Young Adult,1,0,19943,1,S,1,90.0,very high
+488,0,Mr,Edward Austin,Kent,male,58.0,Middle Aged,0,0,11771,1,C,1,29.7,high
+489,0,Mr,Francis William,Somerton,male,30.0,Young Adult,0,0,A5 18509,3,S,0,8.05,medium
+490,1,Master,"Eden Leslie ""Neville""",Coutts,male,9.0,Child,1,1,CA 37671,3,S,0,15.9,high
+491,0,Mr,Konrad Mathias Reiersen,Hagland,male,28.0,Young Adult,1,0,65304,3,S,0,19.9667,high
+492,0,Mr,Einar,Windelov,male,21.0,Young Adult,0,0,SOTON/OQ 3101317,3,S,0,7.25,low
+493,0,Mr,Harry Markland,Molson,male,55.0,Middle Aged,0,0,113787,1,S,1,30.5,high
+494,0,Mr,Ramon,Artagaveytia,male,71.0,Senior,0,0,PC 17609,1,C,0,49.5042,very high
+495,0,Mr,Edward Roland,Stanley,male,21.0,Young Adult,0,0,A/4 45380,3,S,0,8.05,medium
+496,0,Mr,Gerious,Yousseff,male,28.0,Young Adult,0,0,2627,3,C,0,14.4583,high
+497,1,Miss,Elizabeth Mussey,Eustis,female,54.0,Middle Aged,1,0,36947,1,C,1,78.2667,very high
+498,0,Mr,Frederick William,Shellard,male,28.0,Young Adult,0,0,CA 6212,3,S,0,15.1,high
+499,0,Mrs,Bessie Waldo Daniels,Allison,female,25.0,Young Adult,1,2,113781,1,S,1,151.55,very high
+500,0,Mr,Olof,Svensson,male,24.0,Young Adult,0,0,350035,3,S,0,7.7958,low
+501,0,Mr,Petar,Calic,male,17.0,Teenager,0,0,315086,3,S,0,8.6625,medium
+502,0,Miss,Mary,Canavan,female,21.0,Young Adult,0,0,364846,3,Q,0,7.75,low
+503,0,Miss,Bridget Mary,O'Sullivan,female,28.0,Young Adult,0,0,330909,3,Q,0,7.6292,low
+504,0,Miss,Kristina Sofia,Laitinen,female,37.0,Adult,0,0,4135,3,S,0,9.5875,medium
+505,1,Miss,Roberta,Maioni,female,16.0,Teenager,0,0,110152,1,S,1,86.5,very high
+506,0,Mr,Victor de Satode,Penasco y Castellana,male,18.0,Teenager,1,0,PC 17758,1,C,1,108.9,very high
+507,1,Mrs,Jane Richards,Quick,female,33.0,Young Adult,0,2,26360,2,S,0,26.0,high
+508,1,Mr,"George (""George Arthur Brayton"")",Bradley,male,28.0,Young Adult,0,0,111427,1,S,0,26.55,high
+509,0,Mr,Henry Margido,Olsen,male,28.0,Young Adult,0,0,C 4001,3,S,0,22.525,high
+510,1,Mr,Fang,Lang,male,26.0,Young Adult,0,0,1601,3,S,0,56.4958,very high
+511,1,Mr,Eugene Patrick,Daly,male,29.0,Young Adult,0,0,382651,3,Q,0,7.75,low
+512,0,Mr,James,Webber,male,28.0,Young Adult,0,0,SOTON/OQ 3101316,3,S,0,8.05,medium
+513,1,Mr,James Robert,McGough,male,36.0,Adult,0,0,PC 17473,1,S,1,26.2875,high
+514,1,Mrs,Elizabeth L. Barrett,Rothschild,female,54.0,Middle Aged,1,0,PC 17603,1,C,0,59.4,very high
+515,0,Mr,Satio,Coleff,male,24.0,Young Adult,0,0,349209,3,S,0,7.4958,low
+516,0,Mr,William Anderson,Walker,male,47.0,Adult,0,0,36967,1,S,1,34.0208,very high
+517,1,Mrs,Amelia Milley,Lemore,female,34.0,Young Adult,0,0,CA 34260,2,S,1,10.5,medium
+518,0,Mr,Patrick,Ryan,male,28.0,Young Adult,0,0,371110,3,Q,0,24.15,high
+519,1,Mrs,"Florence ""Mary"" Agnes Hughes",Angle,female,36.0,Adult,1,0,226875,2,S,0,26.0,high
+520,0,Mr,Stefo,Pavlovic,male,32.0,Young Adult,0,0,349242,3,S,0,7.8958,low
+521,1,Miss,Anne,Perreault,female,30.0,Young Adult,0,0,12749,1,S,1,93.5,very high
+522,0,Mr,Janko,Vovk,male,22.0,Young Adult,0,0,349252,3,S,0,7.8958,low
+523,0,Mr,Sarkis,Lahoud,male,28.0,Young Adult,0,0,2624,3,C,0,7.225,low
+524,1,Mrs,Ida Sophia Fischer,Hippach,female,44.0,Adult,0,1,111361,1,C,1,57.9792,very high
+525,0,Mr,Fared,Kassem,male,28.0,Young Adult,0,0,2700,3,C,0,7.2292,low
+526,0,Mr,James,Farrell,male,40.5,Adult,0,0,367232,3,Q,0,7.75,low
+527,1,Miss,Lucy,Ridsdale,female,50.0,Adult,0,0,W/C 14258,2,S,0,10.5,medium
+528,0,Mr,John,Farthing,male,28.0,Young Adult,0,0,PC 17483,1,S,1,221.7792,very high
+529,0,Mr,Johan Werner,Salonen,male,39.0,Adult,0,0,3101296,3,S,0,7.925,low
+530,0,Mr,Richard George,Hocking,male,23.0,Young Adult,2,1,29104,2,S,0,11.5,medium
+531,1,Miss,Phyllis May,Quick,female,2.0,Infant,1,1,26360,2,S,0,26.0,high
+532,0,Mr,Nakli,Toufik,male,28.0,Young Adult,0,0,2641,3,C,0,7.2292,low
+533,0,Mr,Joseph Jr,Elias,male,17.0,Teenager,1,1,2690,3,C,0,7.2292,low
+534,1,Mrs,Catherine Rizk,Peter,female,28.0,Young Adult,0,2,2668,3,C,0,22.3583,high
+535,0,Miss,Marija,Cacic,female,30.0,Young Adult,0,0,315084,3,S,0,8.6625,medium
+536,1,Miss,Eva Miriam,Hart,female,7.0,Child,0,2,FCC 13529,2,S,0,26.25,high
+537,0,Major,Archibald Willingham,Butt,male,45.0,Adult,0,0,113050,1,S,1,26.55,high
+538,1,Miss,Bertha,LeRoy,female,30.0,Young Adult,0,0,PC 17761,1,C,0,106.425,very high
+539,0,Mr,Samuel Beard,Risien,male,28.0,Young Adult,0,0,364498,3,S,0,14.5,high
+540,1,Miss,Hedwig Margaritha,Frolicher,female,22.0,Young Adult,0,2,13568,1,C,1,49.5,very high
+541,1,Miss,Harriet R,Crosby,female,36.0,Adult,0,2,WE/P 5735,1,S,1,71.0,very high
+542,0,Miss,Ingeborg Constanzia,Andersson,female,9.0,Child,4,2,347082,3,S,0,31.275,high
+543,0,Miss,Sigrid Elisabeth,Andersson,female,11.0,Child,4,2,347082,3,S,0,31.275,high
+544,1,Mr,Edward,Beane,male,32.0,Young Adult,1,0,2908,2,S,0,26.0,high
+545,0,Mr,Walter Donald,Douglas,male,50.0,Adult,1,0,PC 17761,1,C,1,106.425,very high
+546,0,Mr,Arthur Ernest,Nicholson,male,64.0,Senior,0,0,693,1,S,0,26.0,high
+547,1,Mrs,Ethel Clarke,Beane,female,19.0,Teenager,1,0,2908,2,S,0,26.0,high
+548,1,Mr,Julian,Padro y Manent,male,28.0,Young Adult,0,0,SC/PARIS 2146,2,C,0,13.8625,medium
+549,0,Mr,Frank John,Goldsmith,male,33.0,Young Adult,1,1,363291,3,S,0,20.525,high
+550,1,Master,John Morgan Jr,Davies,male,8.0,Child,1,1,CA 33112,2,S,0,36.75,very high
+551,1,Mr,John Borland Jr,Thayer,male,17.0,Teenager,0,2,17421,1,C,1,110.8833,very high
+552,0,Mr,Percival James R,Sharp,male,27.0,Young Adult,0,0,244358,2,S,0,26.0,high
+553,0,Mr,Timothy,O'Brien,male,28.0,Young Adult,0,0,330979,3,Q,0,7.8292,low
+554,1,Mr,"Fahim (""Philip Zenni"")",Leeni,male,22.0,Young Adult,0,0,2620,3,C,0,7.225,low
+555,1,Miss,Velin,Ohman,female,22.0,Young Adult,0,0,347085,3,S,0,7.775,low
+556,0,Mr,George,Wright,male,62.0,Senior,0,0,113807,1,S,0,26.55,high
+557,1,Lady,"(Lucille Christiana Sutherland) (""Mrs Morgan"")",Duff Gordon,female,48.0,Adult,1,0,11755,1,C,1,39.6,very high
+558,0,Mr,Victor,Robbins,male,28.0,Young Adult,0,0,PC 17757,1,C,0,227.525,very high
+559,1,Mrs,Tillie Mandelbaum,Taussig,female,39.0,Adult,1,1,110413,1,S,1,79.65,very high
+560,1,Mrs,Emma,de Messemaeker,female,36.0,Adult,1,0,345572,3,S,0,17.4,high
+561,0,Mr,Thomas Rowan,Morrow,male,28.0,Young Adult,0,0,372622,3,Q,0,7.75,low
+562,0,Mr,Husein,Sivic,male,40.0,Adult,0,0,349251,3,S,0,7.8958,low
+563,0,Mr,Robert Douglas,Norman,male,28.0,Young Adult,0,0,218629,2,S,0,13.5,medium
+564,0,Mr,John,Simmons,male,28.0,Young Adult,0,0,SOTON/OQ 392082,3,S,0,8.05,medium
+565,0,Miss,(Marion Ogden),Meanwell,female,28.0,Young Adult,0,0,SOTON/OQ 392087,3,S,0,8.05,medium
+566,0,Mr,Alfred J,Davies,male,24.0,Young Adult,2,0,A/4 48871,3,S,0,24.15,high
+567,0,Mr,Ilia,Stoytcheff,male,19.0,Teenager,0,0,349205,3,S,0,7.8958,low
+568,0,Mrs,Alma Cornelia Berglund,Palsson,female,29.0,Young Adult,0,4,349909,3,S,0,21.075,high
+569,0,Mr,Tannous,Doharr,male,28.0,Young Adult,0,0,2686,3,C,0,7.2292,low
+570,1,Mr,Carl,Jonsson,male,32.0,Young Adult,0,0,350417,3,S,0,7.8542,low
+571,1,Mr,George,Harris,male,62.0,Senior,0,0,SW/PP 752,2,S,0,10.5,medium
+572,1,Mrs,Charlotte Lamson,Appleton,female,53.0,Middle Aged,2,0,11769,1,S,1,51.4792,very high
+573,1,Mr,"John Irwin (""Irving"")",Flynn,male,36.0,Adult,0,0,PC 17474,1,S,1,26.3875,high
+574,1,Miss,Mary,Kelly,female,28.0,Young Adult,0,0,14312,3,Q,0,7.75,low
+575,0,Mr,Alfred George John,Rush,male,16.0,Teenager,0,0,A/4 20589,3,S,0,8.05,medium
+576,0,Mr,George,Patchett,male,19.0,Teenager,0,0,358585,3,S,0,14.5,high
+577,1,Miss,Ethel,Garside,female,34.0,Young Adult,0,0,243880,2,S,0,13.0,medium
+578,1,Mrs,Alice Munger,Silvey,female,39.0,Adult,1,0,13507,1,S,1,55.9,very high
+579,0,Mrs,Maria Elias,Caram,female,28.0,Young Adult,1,0,2689,3,C,0,14.4583,high
+580,1,Mr,Eiriik,Jussila,male,32.0,Young Adult,0,0,STON/O 2 3101286,3,S,0,7.925,low
+581,1,Miss,Julie Rachel,Christy,female,25.0,Young Adult,1,1,237789,2,S,0,30.0,high
+582,1,Mrs,Marian Longstreth Morris,Thayer,female,39.0,Adult,1,1,17421,1,C,1,110.8833,very high
+583,0,Mr,William James,Downton,male,54.0,Middle Aged,0,0,28403,2,S,0,26.0,high
+584,0,Mr,John Hugo,Ross,male,36.0,Adult,0,0,13049,1,C,1,40.125,very high
+585,0,Mr,Uscher,Paulner,male,28.0,Young Adult,0,0,3411,3,C,0,8.7125,medium
+586,1,Miss,Ruth,Taussig,female,18.0,Teenager,0,2,110413,1,S,1,79.65,very high
+587,0,Mr,John Denzil,Jarvis,male,47.0,Adult,0,0,237565,2,S,0,15.0,high
+588,1,Mr,Maxmillian,Frolicher-Stehli,male,60.0,Middle Aged,1,1,13567,1,C,1,79.2,very high
+589,0,Mr,Eliezer,Gilinski,male,22.0,Young Adult,0,0,14973,3,S,0,8.05,medium
+590,0,Mr,Joseph,Murdlin,male,28.0,Young Adult,0,0,A/5 3235,3,S,0,8.05,medium
+591,0,Mr,Matti,Rintamaki,male,35.0,Young Adult,0,0,STON/O 2 3101273,3,S,0,7.125,low
+592,1,Mrs,Martha Eustis,Stephenson,female,52.0,Middle Aged,1,0,36947,1,C,1,78.2667,very high
+593,0,Mr,William James,Elsbury,male,47.0,Adult,0,0,A/5 3902,3,S,0,7.25,low
+594,0,Miss,Mary,Bourke,female,28.0,Young Adult,0,2,364848,3,Q,0,7.75,low
+595,0,Mr,John Henry,Chapman,male,37.0,Adult,1,0,SC/AH 29037,2,S,0,26.0,high
+596,0,Mr,Jean Baptiste,Van Impe,male,36.0,Adult,1,1,345773,3,S,0,24.15,high
+597,1,Miss,Jessie Wills,Leitch,female,28.0,Young Adult,0,0,248727,2,S,0,33.0,very high
+598,0,Mr,Alfred,Johnson,male,49.0,Adult,0,0,LINE,3,S,0,14.4542,medium
+599,0,Mr,Hanna,Boulos,male,28.0,Young Adult,0,0,2664,3,C,0,7.225,low
+600,1,Sir,"Cosmo Edmund (""Mr Morgan"")",Duff Gordon,male,49.0,Adult,1,0,PC 17485,1,C,1,56.9292,very high
+601,1,Mrs,Amy Frances Christy,Jacobsohn,female,24.0,Young Adult,2,1,243847,2,S,0,27.0,high
+602,0,Mr,Petco,Slabenoff,male,28.0,Young Adult,0,0,349214,3,S,0,7.8958,low
+603,0,Mr,Charles H,Harrington,male,28.0,Young Adult,0,0,113796,1,S,0,42.4,very high
+604,0,Mr,Ernst William,Torber,male,44.0,Adult,0,0,364511,3,S,0,8.05,medium
+605,1,Mr,"Harry (""Mr E Haven"")",Homer,male,35.0,Young Adult,0,0,111426,1,C,0,26.55,high
+606,0,Mr,Edvard Bengtsson,Lindell,male,36.0,Adult,1,0,349910,3,S,0,15.55,high
+607,0,Mr,Milan,Karaic,male,30.0,Young Adult,0,0,349246,3,S,0,7.8958,low
+608,1,Mr,Robert Williams,Daniel,male,27.0,Young Adult,0,0,113804,1,S,0,30.5,high
+609,1,Mrs,Juliette Marie Louise Lafargue,Laroche,female,22.0,Young Adult,1,2,SC/Paris 2123,2,C,0,41.5792,very high
+610,1,Miss,Elizabeth W,Shutes,female,40.0,Adult,0,0,PC 17582,1,S,1,153.4625,very high
+611,0,Mrs,Alfrida Konstantia Brogren,Andersson,female,39.0,Adult,1,5,347082,3,S,0,31.275,high
+612,0,Mr,Jose Neto,Jardin,male,28.0,Young Adult,0,0,SOTON/OQ 3101305,3,S,0,7.05,low
+613,1,Miss,Margaret Jane,Murphy,female,28.0,Young Adult,1,0,367230,3,Q,0,15.5,high
+614,0,Mr,John,Horgan,male,28.0,Young Adult,0,0,370377,3,Q,0,7.75,low
+615,0,Mr,William Alfred,Brocklebank,male,35.0,Young Adult,0,0,364512,3,S,0,8.05,medium
+616,1,Miss,Alice,Herman,female,24.0,Young Adult,1,2,220845,2,S,0,65.0,very high
+617,0,Mr,Ernst Gilbert,Danbom,male,34.0,Young Adult,1,1,347080,3,S,0,14.4,medium
+618,0,Mrs,Cordelia K Stanlick,Lobb,female,26.0,Young Adult,1,0,A/5 3336,3,S,0,16.1,high
+619,1,Miss,Marion Louise,Becker,female,4.0,Child,2,1,230136,2,S,1,39.0,very high
+620,0,Mr,Lawrence,Gavey,male,26.0,Young Adult,0,0,31028,2,S,0,10.5,medium
+621,0,Mr,Antoni,Yasbeck,male,27.0,Young Adult,1,0,2659,3,C,0,14.4542,medium
+622,1,Mr,Edwin Nelson Jr,Kimball,male,42.0,Adult,1,0,11753,1,S,1,52.5542,very high
+623,1,Mr,Sahid,Nakid,male,20.0,Young Adult,1,1,2653,3,C,0,15.7417,high
+624,0,Mr,Henry Damsgaard,Hansen,male,21.0,Young Adult,0,0,350029,3,S,0,7.8542,low
+625,0,Mr,"David John ""Dai""",Bowen,male,21.0,Young Adult,0,0,54636,3,S,0,16.1,high
+626,0,Mr,Frederick,Sutton,male,61.0,Senior,0,0,36963,1,S,1,32.3208,very high
+627,0,Rev,Charles Leonard,Kirkland,male,57.0,Middle Aged,0,0,219533,2,Q,0,12.35,medium
+628,1,Miss,Gretchen Fiske,Longley,female,21.0,Young Adult,0,0,13502,1,S,1,77.9583,very high
+629,0,Mr,Guentcho,Bostandyeff,male,26.0,Young Adult,0,0,349224,3,S,0,7.8958,low
+630,0,Mr,Patrick D,O'Connell,male,28.0,Young Adult,0,0,334912,3,Q,0,7.7333,low
+631,1,Mr,Algernon Henry Wilson,Barkworth,male,80.0,Senior,0,0,27042,1,S,1,30.0,high
+632,0,Mr,Johan Svensson,Lundahl,male,51.0,Middle Aged,0,0,347743,3,S,0,7.0542,low
+633,1,Dr,Max,Stahelin-Maeglin,male,32.0,Young Adult,0,0,13214,1,C,1,30.5,high
+634,0,Mr,William Henry Marsh,Parr,male,28.0,Young Adult,0,0,112052,1,S,0,14.4542,medium
+635,0,Miss,Mabel,Skoog,female,9.0,Child,3,2,347088,3,S,0,27.9,high
+636,1,Miss,Mary,Davis,female,28.0,Young Adult,0,0,237668,2,S,0,13.0,medium
+637,0,Mr,Antti Gustaf,Leinonen,male,32.0,Young Adult,0,0,STON/O 2 3101292,3,S,0,7.925,low
+638,0,Mr,Harvey,Collyer,male,31.0,Young Adult,1,1,CA 31921,2,S,0,26.25,high
+639,0,Mrs,Maria Emilia Ojala,Panula,female,41.0,Adult,0,5,3101295,3,S,0,39.6875,very high
+640,0,Mr,Percival,Thorneycroft,male,28.0,Young Adult,1,0,376564,3,S,0,16.1,high
+641,0,Mr,Hans Peder,Jensen,male,20.0,Young Adult,0,0,350050,3,S,0,7.8542,low
+642,1,Mlle,Emma,Sagesser,female,24.0,Young Adult,0,0,PC 17477,1,C,1,69.3,very high
+643,0,Miss,Margit Elizabeth,Skoog,female,2.0,Infant,3,2,347088,3,S,0,27.9,high
+644,1,Mr,Choong,Foo,male,28.0,Young Adult,0,0,1601,3,S,0,56.4958,very high
+645,1,Miss,Eugenie,Baclini,female,0.75,Infant,2,1,2666,3,C,0,19.2583,high
+646,1,Mr,Henry Sleeper,Harper,male,48.0,Adult,1,0,PC 17572,1,C,1,76.7292,very high
+647,0,Mr,Liudevit,Cor,male,19.0,Teenager,0,0,349231,3,S,0,7.8958,low
+648,1,Col,Oberst Alfons,Simonius-Blumer,male,56.0,Middle Aged,0,0,13213,1,C,1,35.5,very high
+649,0,Mr,Edward,Willey,male,28.0,Young Adult,0,0,SO/PP 751,3,S,0,7.55,low
+650,1,Miss,Amy Zillah Elsie,Stanley,female,23.0,Young Adult,0,0,CA 2314,3,S,0,7.55,low
+651,0,Mr,Mito,Mitkoff,male,28.0,Young Adult,0,0,349221,3,S,0,7.8958,low
+652,1,Miss,Elsie,Doling,female,18.0,Teenager,0,1,231919,2,S,0,23.0,high
+653,0,Mr,Johannes Halvorsen,Kalvik,male,21.0,Young Adult,0,0,8475,3,S,0,8.4333,medium
+654,1,Miss,"Hanora ""Norah""",O'Leary,female,28.0,Young Adult,0,0,330919,3,Q,0,7.8292,low
+655,0,Miss,"Hanora ""Nora""",Hegarty,female,18.0,Teenager,0,0,365226,3,Q,0,6.75,low
+656,0,Mr,Leonard Mark,Hickman,male,24.0,Young Adult,2,0,SOC 14879,2,S,0,73.5,very high
+657,0,Mr,Alexander,Radeff,male,28.0,Young Adult,0,0,349223,3,S,0,7.8958,low
+658,0,Mrs,Catherine,Bourke,female,32.0,Young Adult,1,1,364849,3,Q,0,15.5,high
+659,0,Mr,George Floyd,Eitemiller,male,23.0,Young Adult,0,0,29751,2,S,0,13.0,medium
+660,0,Mr,Arthur Webster,Newell,male,58.0,Middle Aged,0,2,35273,1,C,1,113.275,very high
+661,1,Dr,Henry William,Frauenthal,male,50.0,Adult,2,0,PC 17611,1,S,0,133.65,very high
+662,0,Mr,Mohamed,Badt,male,40.0,Adult,0,0,2623,3,C,0,7.225,low
+663,0,Mr,Edward Pomeroy,Colley,male,47.0,Adult,0,0,5727,1,S,1,25.5875,high
+664,0,Mr,Peju,Coleff,male,36.0,Adult,0,0,349210,3,S,0,7.4958,low
+665,1,Mr,Eino William,Lindqvist,male,20.0,Young Adult,1,0,STON/O 2 3101285,3,S,0,7.925,low
+666,0,Mr,Lewis,Hickman,male,32.0,Young Adult,2,0,SOC 14879,2,S,0,73.5,very high
+667,0,Mr,Reginald Fenton,Butler,male,25.0,Young Adult,0,0,234686,2,S,0,13.0,medium
+668,0,Mr,Knud Paust,Rommetvedt,male,28.0,Young Adult,0,0,312993,3,S,0,7.775,low
+669,0,Mr,Jacob,Cook,male,43.0,Adult,0,0,A/5 3536,3,S,0,8.05,medium
+670,1,Mrs,Juliet Cummins Wright,Taylor,female,28.0,Young Adult,1,0,19996,1,S,1,52.0,very high
+671,1,Mrs,Elizabeth Catherine Ford,Brown,female,40.0,Adult,1,1,29750,2,S,0,39.0,very high
+672,0,Mr,Thornton,Davidson,male,31.0,Young Adult,1,0,FC 12750,1,S,1,52.0,very high
+673,0,Mr,Henry Michael,Mitchell,male,70.0,Senior,0,0,CA 24580,2,S,0,10.5,medium
+674,1,Mr,Charles,Wilhelms,male,31.0,Young Adult,0,0,244270,2,S,0,13.0,medium
+675,0,Mr,Ennis Hastings,Watson,male,28.0,Young Adult,0,0,239856,2,S,0,14.4542,medium
+676,0,Mr,Gustaf Hjalmar,Edvardsson,male,18.0,Teenager,0,0,349912,3,S,0,7.775,low
+677,0,Mr,Frederick Charles,Sawyer,male,24.5,Young Adult,0,0,342826,3,S,0,8.05,medium
+678,1,Miss,Anna Sofia,Turja,female,18.0,Teenager,0,0,4138,3,S,0,9.8417,medium
+679,0,Mrs,Augusta Tyler,Goodwin,female,43.0,Adult,1,6,CA 2144,3,S,0,46.9,very high
+680,1,Mr,Thomas Drake Martinez,Cardeza,male,36.0,Adult,0,1,PC 17755,1,C,1,512.3292,very high
+681,0,Miss,Katie,Peters,female,28.0,Young Adult,0,0,330935,3,Q,0,8.1375,medium
+682,1,Mr,Hammad,Hassab,male,27.0,Young Adult,0,0,PC 17572,1,C,1,76.7292,very high
+683,0,Mr,Thor Anderson,Olsvigen,male,20.0,Young Adult,0,0,6563,3,S,0,9.225,medium
+684,0,Mr,Charles Edward,Goodwin,male,14.0,Teenager,5,2,CA 2144,3,S,0,46.9,very high
+685,0,Mr,Thomas William Solomon,Brown,male,60.0,Middle Aged,1,1,29750,2,S,0,39.0,very high
+686,0,Mr,Joseph Philippe Lemercier,Laroche,male,25.0,Young Adult,1,2,SC/Paris 2123,2,C,0,41.5792,very high
+687,0,Mr,Jaako Arnold,Panula,male,14.0,Teenager,4,1,3101295,3,S,0,39.6875,very high
+688,0,Mr,Branko,Dakic,male,19.0,Teenager,0,0,349228,3,S,0,10.1708,medium
+689,0,Mr,Eberhard Thelander,Fischer,male,18.0,Teenager,0,0,350036,3,S,0,7.7958,low
+690,1,Miss,Georgette Alexandra,Madill,female,15.0,Teenager,0,1,24160,1,S,1,211.3375,very high
+691,1,Mr,Albert Adrian,Dick,male,31.0,Young Adult,1,0,17474,1,S,1,57.0,very high
+692,1,Miss,Manca,Karun,female,4.0,Child,0,1,349256,3,C,0,13.4167,medium
+693,1,Mr,Ali,Lam,male,28.0,Young Adult,0,0,1601,3,S,0,56.4958,very high
+694,0,Mr,Khalil,Saad,male,25.0,Young Adult,0,0,2672,3,C,0,7.225,low
+695,0,Col,John,Weir,male,60.0,Middle Aged,0,0,113800,1,S,0,26.55,high
+696,0,Mr,Charles Henry,Chapman,male,52.0,Middle Aged,0,0,248731,2,S,0,13.5,medium
+697,0,Mr,James,Kelly,male,44.0,Adult,0,0,363592,3,S,0,8.05,medium
+698,1,Miss,"Katherine ""Katie""",Mullens,female,28.0,Young Adult,0,0,35852,3,Q,0,7.7333,low
+699,0,Mr,John Borland,Thayer,male,49.0,Adult,1,1,17421,1,C,1,110.8833,very high
+700,0,Mr,Adolf Mathias Nicolai Olsen,Humblen,male,42.0,Adult,0,0,348121,3,S,1,7.65,low
+701,1,Mrs,Madeleine Talmadge Force,Astor,female,18.0,Teenager,1,0,PC 17757,1,C,1,227.525,very high
+702,1,Mr,Spencer Victor,Silverthorne,male,35.0,Young Adult,0,0,PC 17475,1,S,1,26.2875,high
+703,0,Miss,Saiide,Barbara,female,18.0,Teenager,0,1,2691,3,C,0,14.4542,medium
+704,0,Mr,Martin,Gallagher,male,25.0,Young Adult,0,0,36864,3,Q,0,7.7417,low
+705,0,Mr,Henrik Juul,Hansen,male,26.0,Young Adult,1,0,350025,3,S,0,7.8542,low
+706,0,Mr,"Henry Samuel (""Mr Henry Marshall"")",Morley,male,39.0,Adult,0,0,250655,2,S,0,26.0,high
+708,1,Mr,Edward Pennington,Calderhead,male,42.0,Adult,0,0,PC 17476,1,S,1,26.2875,high
+709,1,Miss,Alice,Cleaver,female,22.0,Young Adult,0,0,113781,1,S,0,151.55,very high
+710,1,Master,"Halim Gonios (""William George"")",Moubarek,male,28.0,Young Adult,1,1,2661,3,C,0,15.2458,high
+711,1,Mlle,"Berthe Antonine (""Mrs de Villiers"")",Mayne,female,24.0,Young Adult,0,0,PC 17482,1,C,1,49.5042,very high
+712,0,Mr,Herman,Klaber,male,28.0,Young Adult,0,0,113028,1,S,1,26.55,high
+713,1,Mr,Elmer Zebley,Taylor,male,48.0,Adult,1,0,19996,1,S,1,52.0,very high
+714,0,Mr,August Viktor,Larsson,male,29.0,Young Adult,0,0,7545,3,S,0,9.4833,medium
+715,0,Mr,Samuel,Greenberg,male,52.0,Middle Aged,0,0,250647,2,S,0,13.0,medium
+716,0,Mr,Peter Andreas Lauritz Andersen,Soholt,male,19.0,Teenager,0,0,348124,3,S,1,7.65,low
+717,1,Miss,Caroline Louise,Endres,female,38.0,Adult,0,0,PC 17757,1,C,1,227.525,very high
+718,1,Miss,"Edwina Celia ""Winnie""",Troutt,female,27.0,Young Adult,0,0,34218,2,S,1,10.5,medium
+719,0,Mr,Michael,McEvoy,male,28.0,Young Adult,0,0,36568,3,Q,0,15.5,high
+720,0,Mr,Malkolm Joackim,Johnson,male,33.0,Young Adult,0,0,347062,3,S,0,7.775,low
+721,1,Miss,"Annie Jessie ""Nina""",Harper,female,6.0,Child,0,1,248727,2,S,0,33.0,very high
+722,0,Mr,Svend Lauritz,Jensen,male,17.0,Teenager,1,0,350048,3,S,0,7.0542,low
+723,0,Mr,William Henry,Gillespie,male,34.0,Young Adult,0,0,12233,2,S,0,13.0,medium
+724,0,Mr,Henry Price,Hodges,male,50.0,Adult,0,0,250643,2,S,0,13.0,medium
+725,1,Mr,Norman Campbell,Chambers,male,27.0,Young Adult,1,0,113806,1,S,1,53.1,very high
+726,0,Mr,Luka,Oreskovic,male,20.0,Young Adult,0,0,315094,3,S,0,8.6625,medium
+727,1,Mrs,Lillian Jefferys,Renouf,female,30.0,Young Adult,3,0,31027,2,S,0,21.0,high
+728,1,Miss,Margareth,Mannion,female,28.0,Young Adult,0,0,36866,3,Q,0,7.7375,low
+729,0,Mr,Kurt Arnold Gottfrid,Bryhl,male,25.0,Young Adult,1,0,236853,2,S,0,26.0,high
+730,0,Miss,Pieta Sofia,Ilmakangas,female,25.0,Young Adult,1,0,STON/O2 3101271,3,S,0,7.925,low
+731,1,Miss,Elisabeth Walton,Allen,female,29.0,Young Adult,0,0,24160,1,S,1,211.3375,very high
+732,0,Mr,Houssein G N,Hassan,male,11.0,Child,0,0,2699,3,C,0,18.7875,high
+733,0,Mr,Robert J,Knight,male,28.0,Young Adult,0,0,239855,2,S,0,14.4542,medium
+734,0,Mr,William John,Berriman,male,23.0,Young Adult,0,0,28425,2,S,0,13.0,medium
+735,0,Mr,Moses Aaron,Troupiansky,male,23.0,Young Adult,0,0,233639,2,S,0,13.0,medium
+736,0,Mr,Leslie,Williams,male,28.5,Young Adult,0,0,54636,3,S,0,16.1,high
+737,0,Mrs,Margaret Ann Watson,Ford,female,48.0,Adult,1,3,W/C 6608,3,S,0,34.375,very high
+738,1,Mr,Gustave J,Lesurer,male,35.0,Young Adult,0,0,PC 17755,1,C,1,512.3292,very high
+739,0,Mr,Kanio,Ivanoff,male,28.0,Young Adult,0,0,349201,3,S,0,7.8958,low
+740,0,Mr,Minko,Nankoff,male,28.0,Young Adult,0,0,349218,3,S,0,7.8958,low
+741,1,Mr,Walter James,Hawksford,male,28.0,Young Adult,0,0,16988,1,S,1,30.0,high
+742,0,Mr,Tyrell William,Cavendish,male,36.0,Adult,1,0,19877,1,S,1,78.85,very high
+743,1,Miss,"Susan Parker ""Suzette""",Ryerson,female,21.0,Young Adult,2,2,PC 17608,1,C,1,262.375,very high
+744,0,Mr,Neal,McNamee,male,24.0,Young Adult,1,0,376566,3,S,0,16.1,high
+745,1,Mr,Juho,Stranden,male,31.0,Young Adult,0,0,STON/O 2 3101288,3,S,0,7.925,low
+746,0,Capt,Edward Gifford,Crosby,male,70.0,Senior,1,1,WE/P 5735,1,S,1,71.0,very high
+747,0,Mr,Rossmore Edward,Abbott,male,16.0,Teenager,1,1,CA 2673,3,S,0,20.25,high
+748,1,Miss,Anna,Sinkkonen,female,30.0,Young Adult,0,0,250648,2,S,0,13.0,medium
+749,0,Mr,Daniel Warner,Marvin,male,19.0,Teenager,1,0,113773,1,S,1,53.1,very high
+750,0,Mr,Michael,Connaghton,male,31.0,Young Adult,0,0,335097,3,Q,0,7.75,low
+751,1,Miss,Joan,Wells,female,4.0,Child,1,1,29103,2,S,0,23.0,high
+752,1,Master,Meier,Moor,male,6.0,Child,0,1,392096,3,S,1,12.475,medium
+753,0,Mr,Johannes Joseph,Vande Velde,male,33.0,Young Adult,0,0,345780,3,S,0,9.5,medium
+754,0,Mr,Lalio,Jonkoff,male,23.0,Young Adult,0,0,349204,3,S,0,7.8958,low
+755,1,Mrs,Jane Laver,Herman,female,48.0,Adult,1,2,220845,2,S,0,65.0,very high
+756,1,Master,Viljo,Hamalainen,male,0.67,Infant,1,1,250649,2,S,0,14.5,high
+757,0,Mr,August Sigfrid,Carlsson,male,28.0,Young Adult,0,0,350042,3,S,0,7.7958,low
+758,0,Mr,Percy Andrew,Bailey,male,18.0,Teenager,0,0,29108,2,S,0,11.5,medium
+759,0,Mr,Thomas Leonard,Theobald,male,34.0,Young Adult,0,0,363294,3,S,0,8.05,medium
+760,1,the Countess,of (Lucy Noel Martha Dyer-Edwards),Rothes,female,33.0,Young Adult,0,0,110152,1,S,1,86.5,very high
+761,0,Mr,John,Garfirth,male,28.0,Young Adult,0,0,358585,3,S,0,14.5,high
+762,0,Mr,Iisakki Antino Aijo,Nirva,male,41.0,Adult,0,0,SOTON/O2 3101272,3,S,0,7.125,low
+763,1,Mr,Hanna Assi,Barah,male,20.0,Young Adult,0,0,2663,3,C,0,7.2292,low
+764,1,Mrs,Lucile Polk,Carter,female,36.0,Adult,1,2,113760,1,S,1,120.0,very high
+765,0,Mr,Hans Linus,Eklund,male,16.0,Teenager,0,0,347074,3,S,0,7.775,low
+766,1,Mrs,Anna Andrews,Hogeboom,female,51.0,Middle Aged,1,0,13502,1,S,1,77.9583,very high
+767,0,Dr,Arthur Jackson,Brewe,male,28.0,Young Adult,0,0,112379,1,C,0,39.6,very high
+768,0,Miss,Mary,Mangan,female,30.5,Young Adult,0,0,364850,3,Q,0,7.75,low
+769,0,Mr,Daniel J,Moran,male,28.0,Young Adult,1,0,371110,3,Q,0,24.15,high
+770,0,Mr,Daniel Danielsen,Gronnestad,male,32.0,Young Adult,0,0,8471,3,S,0,8.3625,medium
+771,0,Mr,Rene Aime,Lievens,male,24.0,Young Adult,0,0,345781,3,S,0,9.5,medium
+772,0,Mr,Niels Peder,Jensen,male,48.0,Adult,0,0,350047,3,S,0,7.8542,low
+773,0,Mrs,Mary,Mack,female,57.0,Middle Aged,0,0,SO/PP 3,2,S,1,10.5,medium
+774,0,Mr,Dibo,Elias,male,28.0,Young Adult,0,0,2674,3,C,0,7.225,low
+775,1,Mrs,Eliza Needs,Hocking,female,54.0,Middle Aged,1,3,29105,2,S,0,23.0,high
+776,0,Mr,Pehr Fabian Oliver Malkolm,Myhrman,male,18.0,Teenager,0,0,347078,3,S,0,7.75,low
+777,0,Mr,Roger,Tobin,male,28.0,Young Adult,0,0,383121,3,Q,1,7.75,low
+778,1,Miss,Virginia Ethel,Emanuel,female,5.0,Child,0,0,364516,3,S,0,12.475,medium
+779,0,Mr,Thomas J,Kilgannon,male,28.0,Young Adult,0,0,36865,3,Q,0,7.7375,low
+780,1,Mrs,Elisabeth Walton McMillan,Robert,female,43.0,Adult,0,1,24160,1,S,1,211.3375,very high
+781,1,Miss,Banoura,Ayoub,female,13.0,Teenager,0,0,2687,3,C,0,7.2292,low
+782,1,Mrs,Vera Gillespie,Dick,female,17.0,Teenager,1,0,17474,1,S,1,57.0,very high
+783,0,Mr,Milton Clyde,Long,male,29.0,Young Adult,0,0,113501,1,S,1,30.0,high
+784,0,Mr,Andrew G,Johnston,male,28.0,Young Adult,1,2,W/C 6607,3,S,0,23.45,high
+785,0,Mr,William,Ali,male,25.0,Young Adult,0,0,SOTON/OQ 3101312,3,S,0,7.05,low
+786,0,Mr,Abraham (David Lishin),Harmer,male,25.0,Young Adult,0,0,374887,3,S,0,7.25,low
+787,1,Miss,Anna Sofia,Sjoblom,female,18.0,Teenager,0,0,3101265,3,S,0,7.4958,low
+788,0,Master,George Hugh,Rice,male,8.0,Child,4,1,382652,3,Q,0,29.125,high
+789,1,Master,Bertram Vere,Dean,male,1.0,Infant,1,2,CA 2315,3,S,0,20.575,high
+790,0,Mr,Benjamin,Guggenheim,male,46.0,Adult,0,0,PC 17593,1,C,1,79.2,very high
+791,0,Mr,"Andrew ""Andy""",Keane,male,28.0,Young Adult,0,0,12460,3,Q,0,7.75,low
+792,0,Mr,Alfred,Gaskell,male,16.0,Teenager,0,0,239865,2,S,0,26.0,high
+793,0,Miss,Stella Anna,Sage,female,28.0,Young Adult,8,2,CA 2343,3,S,0,69.55,very high
+794,0,Mr,William Fisher,Hoyt,male,28.0,Young Adult,0,0,PC 17600,1,C,0,30.6958,high
+795,0,Mr,Ristiu,Dantcheff,male,25.0,Young Adult,0,0,349203,3,S,0,7.8958,low
+796,0,Mr,Richard,Otter,male,39.0,Adult,0,0,28213,2,S,0,13.0,medium
+797,1,Dr,Alice (Farnham),Leader,female,49.0,Adult,0,0,17465,1,S,1,25.9292,high
+799,0,Mr,Yousseff,Ibrahim Shawah,male,30.0,Young Adult,0,0,2685,3,C,0,7.2292,low
+800,0,Mrs,Rosalie Paula Govaert,Van Impe,female,30.0,Young Adult,1,1,345773,3,S,0,24.15,high
+801,0,Mr,Martin,Ponesell,male,34.0,Young Adult,0,0,250647,2,S,0,13.0,medium
+802,1,Mrs,Charlotte Annie Tate,Collyer,female,31.0,Young Adult,1,1,CA 31921,2,S,0,26.25,high
+803,1,Master,William Thornton II,Carter,male,11.0,Child,1,2,113760,1,S,1,120.0,very high
+804,1,Master,Assad Alexander,Thomas,male,0.42,Infant,0,1,2625,3,C,0,8.5167,medium
+805,1,Mr,Oskar Arvid,Hedman,male,27.0,Young Adult,0,0,347089,3,S,0,6.975,low
+806,0,Mr,Karl Johan,Johansson,male,31.0,Young Adult,0,0,347063,3,S,0,7.775,low
+807,0,Mr,Thomas Jr,Andrews,male,39.0,Adult,0,0,112050,1,S,1,14.4542,medium
+808,0,Miss,Ellen Natalia,Pettersson,female,18.0,Teenager,0,0,347087,3,S,0,7.775,low
+809,0,Mr,August,Meyer,male,39.0,Adult,0,0,248723,2,S,0,13.0,medium
+810,1,Mrs,Bertha Griggs,Chambers,female,33.0,Young Adult,1,0,113806,1,S,1,53.1,very high
+811,0,Mr,William,Alexander,male,26.0,Young Adult,0,0,3474,3,S,0,7.8875,low
+812,0,Mr,James,Lester,male,39.0,Adult,0,0,A/4 48871,3,S,0,24.15,high
+813,0,Mr,Richard James,Slemen,male,35.0,Young Adult,0,0,28206,2,S,0,10.5,medium
+814,0,Miss,Ebba Iris Alfrida,Andersson,female,6.0,Child,4,2,347082,3,S,0,31.275,high
+815,0,Mr,Ernest Portage,Tomlin,male,30.5,Young Adult,0,0,364499,3,S,0,8.05,medium
+816,0,Mr,Richard,Fry,male,28.0,Young Adult,0,0,112058,1,S,1,14.4542,medium
+817,0,Miss,Wendla Maria,Heininen,female,23.0,Young Adult,0,0,STON/O2 3101290,3,S,0,7.925,low
+818,0,Mr,Albert,Mallet,male,31.0,Young Adult,1,1,SC/PARIS 2079,2,C,0,37.0042,very high
+819,0,Mr,John Fredrik Alexander,Holm,male,43.0,Adult,0,0,C 7075,3,S,0,6.45,low
+820,0,Master,Karl Thorsten,Skoog,male,10.0,Child,3,2,347088,3,S,0,27.9,high
+821,1,Mrs,Clara Jennings Gregg,Hays,female,52.0,Middle Aged,1,1,12749,1,S,1,93.5,very high
+822,1,Mr,Nikola,Lulic,male,27.0,Young Adult,0,0,315098,3,S,0,8.6625,medium
+823,0,Jonkheer,John George,Reuchlin,male,38.0,Adult,0,0,19972,1,S,0,14.4542,medium
+824,1,Mrs,Beila,Moor,female,27.0,Young Adult,0,1,392096,3,S,1,12.475,medium
+825,0,Master,Urho Abraham,Panula,male,2.0,Infant,4,1,3101295,3,S,0,39.6875,very high
+826,0,Mr,John,Flynn,male,28.0,Young Adult,0,0,368323,3,Q,0,6.95,low
+827,0,Mr,Len,Lam,male,28.0,Young Adult,0,0,1601,3,S,0,56.4958,very high
+828,1,Master,Andre,Mallet,male,1.0,Infant,0,2,SC/PARIS 2079,2,C,0,37.0042,very high
+829,1,Mr,Thomas Joseph,McCormack,male,28.0,Young Adult,0,0,367228,3,Q,0,7.75,low
+831,1,Mrs,Selini Alexander,Yasbeck,female,15.0,Teenager,1,0,2659,3,C,0,14.4542,medium
+832,1,Master,George Sibley,Richards,male,0.83,Infant,1,1,29106,2,S,0,18.75,high
+833,0,Mr,Amin,Saad,male,28.0,Young Adult,0,0,2671,3,C,0,7.2292,low
+834,0,Mr,Albert,Augustsson,male,23.0,Young Adult,0,0,347468,3,S,0,7.8542,low
+835,0,Mr,Owen George,Allum,male,18.0,Teenager,0,0,2223,3,S,0,8.3,medium
+836,1,Miss,Sara Rebecca,Compton,female,39.0,Adult,1,1,PC 17756,1,C,1,83.1583,very high
+837,0,Mr,Jakob,Pasic,male,21.0,Young Adult,0,0,315097,3,S,0,8.6625,medium
+838,0,Mr,Maurice,Sirota,male,28.0,Young Adult,0,0,392092,3,S,0,8.05,medium
+839,1,Mr,Chang,Chip,male,32.0,Young Adult,0,0,1601,3,S,0,56.4958,very high
+840,1,Mr,Pierre,Marechal,male,28.0,Young Adult,0,0,11774,1,C,1,29.7,high
+841,0,Mr,Ilmari Rudolf,Alhomaki,male,20.0,Young Adult,0,0,SOTON/O2 3101287,3,S,0,7.925,low
+842,0,Mr,Thomas Charles,Mudd,male,16.0,Teenager,0,0,SO/PP 3,2,S,0,10.5,medium
+843,1,Miss,Augusta,Serepeca,female,30.0,Young Adult,0,0,113798,1,C,0,31.0,high
+844,0,Mr,Peter L,Lemberopolous,male,34.5,Young Adult,0,0,2683,3,C,0,6.4375,low
+845,0,Mr,Jeso,Culumovic,male,17.0,Teenager,0,0,315090,3,S,0,8.6625,medium
+846,0,Mr,Anthony,Abbing,male,42.0,Adult,0,0,CA 5547,3,S,0,7.55,low
+847,0,Mr,Douglas Bullen,Sage,male,28.0,Young Adult,8,2,CA 2343,3,S,0,69.55,very high
+848,0,Mr,Marin,Markoff,male,35.0,Young Adult,0,0,349213,3,C,0,7.8958,low
+849,0,Rev,John,Harper,male,28.0,Young Adult,0,1,248727,2,S,0,33.0,very high
+850,1,Mrs,Edwiga Grabowska,Goldenberg,female,28.0,Young Adult,1,0,17453,1,C,1,89.1042,very high
+851,0,Master,Sigvard Harald Elias,Andersson,male,4.0,Child,4,2,347082,3,S,0,31.275,high
+852,0,Mr,Johan,Svensson,male,74.0,Senior,0,0,347060,3,S,0,7.775,low
+853,0,Miss,Nourelain,Boulos,female,9.0,Child,1,1,2678,3,C,0,15.2458,high
+854,1,Miss,Mary Conover,Lines,female,16.0,Teenager,0,1,PC 17592,1,S,1,39.4,very high
+855,0,Mrs,Lilian Hughes,Carter,female,44.0,Adult,1,0,244252,2,S,0,26.0,high
+856,1,Mrs,Leah Rosen,Aks,female,18.0,Teenager,0,1,392091,3,S,0,9.35,medium
+857,1,Mrs,Mary Hitchcock,Wick,female,45.0,Adult,1,1,36928,1,S,0,164.8667,very high
+858,1,Mr,Peter Denis,Daly,male,51.0,Middle Aged,0,0,113055,1,S,1,26.55,high
+859,1,Mrs,Latifa Qurban,Baclini,female,24.0,Young Adult,0,3,2666,3,C,0,19.2583,high
+860,0,Mr,Raihed,Razi,male,28.0,Young Adult,0,0,2629,3,C,0,7.2292,low
+861,0,Mr,Claus Peter,Hansen,male,41.0,Adult,2,0,350026,3,S,0,14.1083,medium
+862,0,Mr,Frederick Edward,Giles,male,21.0,Young Adult,1,0,28134,2,S,0,11.5,medium
+863,1,Mrs,Margaret Welles Barron,Swift,female,48.0,Adult,0,0,17466,1,S,1,25.9292,high
+864,0,Miss,"Dorothy Edith ""Dolly""",Sage,female,28.0,Young Adult,8,2,CA 2343,3,S,0,69.55,very high
+865,0,Mr,John William,Gill,male,24.0,Young Adult,0,0,233866,2,S,0,13.0,medium
+866,1,Mrs,Karolina,Bystrom,female,42.0,Adult,0,0,236852,2,S,0,13.0,medium
+867,1,Miss,Asuncion,Duran y More,female,27.0,Young Adult,1,0,SC/PARIS 2149,2,C,0,13.8583,medium
+868,0,Mr,Washington Augustus II,Roebling,male,31.0,Young Adult,0,0,PC 17590,1,S,1,50.4958,very high
+869,0,Mr,Philemon,van Melkebeke,male,28.0,Young Adult,0,0,345777,3,S,0,9.5,medium
+870,1,Master,Harold Theodor,Johnson,male,4.0,Child,1,1,347742,3,S,0,11.1333,medium
+871,0,Mr,Cerin,Balkic,male,26.0,Young Adult,0,0,349248,3,S,0,7.8958,low
+872,1,Mrs,Sallie Monypeny,Beckwith,female,47.0,Adult,1,1,11751,1,S,1,52.5542,very high
+873,0,Mr,Frans Olof,Carlsson,male,33.0,Young Adult,0,0,695,1,S,1,5.0,low
+874,0,Mr,Victor,Vander Cruyssen,male,47.0,Adult,0,0,345765,3,S,0,9.0,medium
+875,1,Mrs,Hannah Wizosky,Abelson,female,28.0,Young Adult,1,0,P/PP 3381,2,C,0,24.0,high
+876,1,Miss,"Adele Kiamie ""Jane""",Najib,female,15.0,Teenager,0,0,2667,3,C,0,7.225,low
+877,0,Mr,Alfred Ossian,Gustafsson,male,20.0,Young Adult,0,0,7534,3,S,0,9.8458,medium
+878,0,Mr,Nedelio,Petroff,male,19.0,Teenager,0,0,349212,3,S,0,7.8958,low
+879,0,Mr,Kristo,Laleff,male,28.0,Young Adult,0,0,349217,3,S,0,7.8958,low
+880,1,Mrs,Lily Alexenia Wilson,Potter,female,56.0,Middle Aged,0,1,11767,1,C,1,83.1583,very high
+881,1,Mrs,Imanita Parrish Hall,Shelley,female,25.0,Young Adult,0,1,230433,2,S,0,26.0,high
+882,0,Mr,Johann,Markun,male,33.0,Young Adult,0,0,349257,3,S,0,7.8958,low
+883,0,Miss,Gerda Ulrika,Dahlberg,female,22.0,Young Adult,0,0,7552,3,S,0,10.5167,medium
+884,0,Mr,Frederick James,Banfield,male,28.0,Young Adult,0,0,CA/SOTON 34068,2,S,0,10.5,medium
+885,0,Mr,Henry Jr,Sutehall,male,25.0,Young Adult,0,0,SOTON/OQ 392076,3,S,0,7.05,low
+886,0,Mrs,Margaret Norton,Rice,female,39.0,Adult,0,5,382652,3,Q,0,29.125,high
+887,0,Rev,Juozas,Montvila,male,27.0,Young Adult,0,0,211536,2,S,0,13.0,medium
+888,1,Miss,Margaret Edith,Graham,female,19.0,Teenager,0,0,112053,1,S,1,30.0,high
+889,0,Miss,"Catherine Helen ""Carrie""",Johnston,female,28.0,Young Adult,1,2,W/C 6607,3,S,0,23.45,high
+890,1,Mr,Karl Howell,Behr,male,26.0,Young Adult,0,0,111369,1,C,1,30.0,high
+891,0,Mr,Patrick,Dooley,male,32.0,Young Adult,0,0,370376,3,Q,0,7.75,low
+892,0,Mr,James,Kelly,male,34.5,Young Adult,0,0,330911,3,Q,0,7.8292,low
+893,1,Mrs,Ellen Needs,Wilkes,female,47.0,Adult,1,0,363272,3,S,0,7.0,low
+894,0,Mr,Thomas Francis,Myles,male,62.0,Senior,0,0,240276,2,Q,0,9.6875,medium
+895,0,Mr,Albert,Wirz,male,27.0,Young Adult,0,0,315154,3,S,0,8.6625,medium
+896,1,Mrs,Helga E Lindqvist,Hirvonen,female,22.0,Young Adult,1,1,3101298,3,S,0,12.2875,medium
+897,0,Mr,Johan Cervin,Svensson,male,14.0,Teenager,0,0,7538,3,S,0,9.225,medium
+898,1,Miss,Kate,Connolly,female,30.0,Young Adult,0,0,330972,3,Q,0,7.6292,low
+899,0,Mr,Albert Francis,Caldwell,male,26.0,Young Adult,1,1,248738,2,S,0,29.0,high
+900,1,Mrs,Sophie Halaut Easu,Abrahim,female,18.0,Teenager,0,0,2657,3,C,0,7.2292,low
+901,0,Mr,John Samuel,Davies,male,21.0,Young Adult,2,0,A/4 48871,3,S,0,24.15,high
+902,0,Mr,Ylio,Ilieff,male,28.0,Young Adult,0,0,349220,3,S,0,7.8958,low
+903,0,Mr,Charles Cresson,Jones,male,46.0,Adult,0,0,694,1,S,0,26.0,high
+904,1,Mrs,Nelle Stevenson,Snyder,female,23.0,Young Adult,1,0,21228,1,S,1,82.2667,very high
+905,0,Mr,Benjamin,Howard,male,63.0,Senior,1,0,24065,2,S,0,26.0,high
+906,1,Mrs,Carrie Constance Toogood,Chaffee,female,47.0,Adult,1,0,WEP 5734,1,S,1,61.175,very high
+907,1,Mrs,Argenia Genovesi,del Carlo,female,24.0,Young Adult,1,0,SC/PARIS 2167,2,C,0,27.7208,high
+908,0,Mr,Daniel,Keane,male,35.0,Young Adult,0,0,233734,2,Q,0,12.35,medium
+909,0,Mr,Gerios,Assaf,male,21.0,Young Adult,0,0,2692,3,C,0,7.225,low
+910,1,Miss,Ida Livija,Ilmakangas,female,27.0,Young Adult,1,0,STON/O2 3101270,3,S,0,7.925,low
+911,1,Mrs,"Miriam"")""",Assaf Khalil,female,45.0,Adult,0,0,2696,3,C,0,7.225,low
+912,0,Mr,Martin,Rothschild,male,55.0,Middle Aged,1,0,PC 17603,1,C,0,59.4,very high
+913,0,Master,Artur Karl,Olsen,male,9.0,Child,0,1,C 17368,3,S,0,3.1708,low
+914,1,Mrs,Antoinette,Flegenheim,female,28.0,Young Adult,0,0,PC 17598,1,S,0,31.6833,very high
+915,0,Mr,Richard Norris II,Williams,male,21.0,Young Adult,0,1,PC 17597,1,C,0,61.3792,very high
+916,1,Mrs,Emily Maria Borie,Ryerson,female,48.0,Adult,1,3,PC 17608,1,C,1,262.375,very high
+917,0,Mr,Alexander A,Robins,male,50.0,Adult,1,0,A/5 3337,3,S,0,14.5,high
+918,1,Miss,Helene Ragnhild,Ostby,female,22.0,Young Adult,0,1,113509,1,C,1,61.9792,very high
+919,0,Mr,Shedid,Daher,male,22.5,Young Adult,0,0,2698,3,C,0,7.225,low
+920,0,Mr,John Bertram,Brady,male,41.0,Adult,0,0,113054,1,S,1,30.5,high
+921,0,Mr,Elias,Samaan,male,28.0,Young Adult,2,0,2662,3,C,0,21.6792,high
+922,0,Mr,Charles Alexander,Louch,male,50.0,Adult,1,0,SC/AH 3085,2,S,0,26.0,high
+923,0,Mr,Clifford Thomas,Jefferys,male,24.0,Young Adult,2,0,CA 31029,2,S,0,31.5,very high
+924,1,Mrs,Eva Georgetta Light,Dean,female,33.0,Young Adult,1,2,CA 2315,3,S,0,20.575,high
+925,1,Mrs,"Elizabeth Lily"" Watson)""",Johnston,female,28.0,Young Adult,1,2,W/C 6607,3,S,0,23.45,high
+926,0,Mr,Philipp Edmund,Mock,male,30.0,Young Adult,1,0,13236,1,C,1,57.75,very high
+927,0,Mr,"Vassilios (Catavelas Vassilios"")""",Katavelas,male,18.5,Teenager,0,0,2682,3,C,0,7.2292,low
+928,1,Miss,Sarah A,Roth,female,28.0,Young Adult,0,0,342712,3,S,0,8.05,medium
+929,1,Miss,Manda,Cacic,female,21.0,Young Adult,0,0,315087,3,S,0,8.6625,medium
+930,0,Mr,Julius,Sap,male,25.0,Young Adult,0,0,345768,3,S,0,9.5,medium
+931,0,Mr,Ling,Hee,male,28.0,Young Adult,0,0,1601,3,S,0,56.4958,very high
+932,0,Mr,Franz,Karun,male,39.0,Adult,0,1,349256,3,C,0,13.4167,medium
+933,0,Mr,Thomas Parham,Franklin,male,28.0,Young Adult,0,0,113778,1,S,1,26.55,high
+934,0,Mr,Nathan,Goldsmith,male,41.0,Adult,0,0,SOTON/OQ 3101263,3,S,0,7.85,low
+935,1,Mrs,Irene Colvin,Corbett,female,30.0,Young Adult,0,0,237249,2,S,0,13.0,medium
+936,1,Mrs,Gertrude Parsons,Kimball,female,45.0,Adult,1,0,11753,1,S,1,52.5542,very high
+937,0,Mr,Nikolai Johannes,Peltomaki,male,25.0,Young Adult,0,0,STON/O 2 3101291,3,S,0,7.925,low
+938,0,Mr,Paul Romaine,Chevre,male,45.0,Adult,0,0,PC 17594,1,C,1,29.7,high
+939,0,Mr,Patrick,Shaughnessy,male,28.0,Young Adult,0,0,370374,3,Q,0,7.75,low
+940,1,Mrs,Emma Eliza Ward,Bucknell,female,60.0,Middle Aged,0,0,11813,1,C,1,76.2917,very high
+941,1,Mrs,"Winnie Minnie"" Treanor)""",Coutts,female,36.0,Adult,0,2,CA 37671,3,S,0,15.9,high
+942,0,Mr,Lucien Philip,Smith,male,24.0,Young Adult,1,0,13695,1,S,1,60.0,very high
+943,0,Mr,Franz,Pulbaum,male,27.0,Young Adult,0,0,SC/PARIS 2168,2,C,0,15.0333,high
+944,1,Miss,"Ellen Nellie""""",Hocking,female,20.0,Young Adult,2,1,29105,2,S,0,23.0,high
+945,1,Miss,Ethel Flora,Fortune,female,28.0,Young Adult,3,2,19950,1,S,1,263.0,very high
+946,0,Mr,Serafino Emilio,Mangiavacchi,male,28.0,Young Adult,0,0,SC/A3 2861,2,C,0,15.5792,high
+947,0,Master,Albert,Rice,male,10.0,Child,4,1,382652,3,Q,0,29.125,high
+948,0,Mr,Bartol,Cor,male,35.0,Young Adult,0,0,349230,3,S,0,7.8958,low
+949,0,Mr,Olaus Jorgensen,Abelseth,male,25.0,Young Adult,0,0,348122,3,S,1,7.65,low
+950,0,Mr,Thomas Henry,Davison,male,28.0,Young Adult,1,0,386525,3,S,0,16.1,high
+951,1,Miss,Victorine,Chaudanson,female,36.0,Adult,0,0,PC 17608,1,C,1,262.375,very high
+952,0,Mr,Mirko,Dika,male,17.0,Teenager,0,0,349232,3,S,0,7.8958,low
+953,0,Mr,Arthur Gordon,McCrae,male,32.0,Young Adult,0,0,237216,2,S,0,13.5,medium
+954,0,Mr,Ernst Herbert,Bjorklund,male,18.0,Teenager,0,0,347090,3,S,0,7.75,low
+955,1,Miss,Bridget Delia,Bradley,female,22.0,Young Adult,0,0,334914,3,Q,0,7.725,low
+956,0,Master,John Borie,Ryerson,male,13.0,Teenager,2,2,PC 17608,1,C,1,262.375,very high
+957,1,Mrs,Mary Phyllis Elizabeth Miller,Corey,female,28.0,Young Adult,0,0,FCC 13534,2,S,0,21.0,high
+958,1,Miss,Mary Delia,Burns,female,18.0,Teenager,0,0,330963,3,Q,0,7.8792,low
+959,0,Mr,Clarence Bloomfield,Moore,male,47.0,Adult,0,0,113796,1,S,0,42.4,very high
+960,0,Mr,Gilbert Milligan Jr,Tucker,male,31.0,Young Adult,0,0,2543,1,C,1,28.5375,high
+961,1,Mrs,Mary McDougald,Fortune,female,60.0,Middle Aged,1,4,19950,1,S,1,263.0,very high
+962,1,Miss,Bertha E,Mulvihill,female,24.0,Young Adult,0,0,382653,3,Q,0,7.75,low
+963,0,Mr,Lazar,Minkoff,male,21.0,Young Adult,0,0,349211,3,S,0,7.8958,low
+964,1,Miss,Manta Josefina,Nieminen,female,29.0,Young Adult,0,0,3101297,3,S,0,7.925,low
+965,0,Mr,Servando,Ovies y Rodriguez,male,28.5,Young Adult,0,0,PC 17562,1,C,1,27.7208,high
+966,1,Miss,Amalie,Geiger,female,35.0,Young Adult,0,0,113503,1,C,1,211.5,very high
+967,0,Mr,Edwin,Keeping,male,32.5,Young Adult,0,0,113503,1,C,1,211.5,very high
+968,0,Mr,Frank,Miles,male,28.0,Young Adult,0,0,359306,3,S,0,8.05,medium
+969,1,Mrs,Malvina Helen Lamson,Cornell,female,55.0,Middle Aged,2,0,11770,1,S,1,25.7,high
+970,0,Mr,Charles Augustus,Aldworth,male,30.0,Young Adult,0,0,248744,2,S,0,13.0,medium
+971,1,Miss,Elizabeth,Doyle,female,24.0,Young Adult,0,0,368702,3,Q,0,7.75,low
+972,0,Master,Akar,Boulos,male,6.0,Child,1,1,2678,3,C,0,15.2458,high
+973,0,Mr,Isidor,Straus,male,67.0,Senior,1,0,PC 17483,1,S,1,221.7792,very high
+974,0,Mr,Howard Brown,Case,male,49.0,Adult,0,0,19924,1,S,0,26.0,high
+975,0,Mr,Marinko,Demetri,male,28.0,Young Adult,0,0,349238,3,S,0,7.8958,low
+976,0,Mr,John Joseph,Lamb,male,28.0,Young Adult,0,0,240261,2,Q,0,10.7083,medium
+977,0,Mr,Betros,Khalil,male,28.0,Young Adult,1,0,2660,3,C,0,14.4542,medium
+978,1,Miss,Julia,Barry,female,27.0,Young Adult,0,0,330844,3,Q,0,7.8792,low
+979,1,Miss,Emily Louisa,Badman,female,18.0,Teenager,0,0,A/4 31416,3,S,0,8.05,medium
+980,1,Ms,Bridget,O'Donoghue,female,28.0,Young Adult,0,0,364856,3,Q,0,7.75,low
+981,0,Master,Ralph Lester,Wells,male,2.0,Infant,1,1,29103,2,S,0,23.0,high
+982,1,Mrs,Anna Elisabeth Judith Andersson,Dyker,female,22.0,Young Adult,1,0,347072,3,S,0,13.9,medium
+983,0,Mr,Olaf,Pedersen,male,28.0,Young Adult,0,0,345498,3,S,0,7.775,low
+984,1,Mrs,Orian Hays,Davidson,female,27.0,Young Adult,1,2,FC 12750,1,S,1,52.0,very high
+985,0,Mr,Robert,Guest,male,28.0,Young Adult,0,0,376563,3,S,0,8.05,medium
+986,0,Mr,Jakob,Birnbaum,male,25.0,Young Adult,0,0,13905,1,C,0,26.0,high
+987,0,Mr,Gunnar Isidor,Tenglin,male,25.0,Young Adult,0,0,350033,3,S,0,7.7958,low
+988,1,Mrs,Julia Florence Siegel,Cavendish,female,76.0,Senior,1,0,19877,1,S,1,78.85,very high
+989,0,Mr,Kalle Edvard,Makinen,male,29.0,Young Adult,0,0,STON/O 2 3101268,3,S,0,7.925,low
+990,1,Miss,Elin Ester Maria,Braf,female,20.0,Young Adult,0,0,347471,3,S,0,7.8542,low
+991,0,Mr,William Henry,Nancarrow,male,33.0,Young Adult,0,0,A/5 3338,3,S,0,8.05,medium
+992,1,Mrs,Annie May Morris,Stengel,female,43.0,Adult,1,0,11778,1,C,1,55.4417,very high
+993,0,Mr,Leopold,Weisz,male,27.0,Young Adult,1,0,228414,2,S,0,26.0,high
+994,0,Mr,William,Foley,male,28.0,Young Adult,0,0,365235,3,Q,0,7.75,low
+995,0,Mr,Oskar Leander,Johansson Palmquist,male,26.0,Young Adult,0,0,347070,3,S,0,7.775,low
+996,1,Mrs,"Thamine Thelma"")""",Thomas,female,16.0,Teenager,1,1,2625,3,C,0,8.5167,medium
+997,0,Mr,Johan Martin,Holthen,male,28.0,Young Adult,0,0,C 4001,3,S,0,22.525,high
+998,0,Mr,Daniel,Buckley,male,21.0,Young Adult,0,0,330920,3,Q,0,7.8208,low
+999,0,Mr,Edward,Ryan,male,28.0,Young Adult,0,0,383162,3,Q,0,7.75,low
+1000,0,Mr,"Aaron (Abi Weller"")""",Willer,male,28.0,Young Adult,0,0,3410,3,S,0,8.7125,medium
+1001,0,Mr,George,Swane,male,18.5,Teenager,0,0,248734,2,S,1,13.0,medium
+1002,0,Mr,Samuel Ward,Stanton,male,41.0,Adult,0,0,237734,2,C,0,15.0458,high
+1003,1,Miss,Ellen Natalia,Shine,female,28.0,Young Adult,0,0,330968,3,Q,0,7.7792,low
+1004,1,Miss,Edith Corse,Evans,female,36.0,Adult,0,0,PC 17531,1,C,1,31.6792,very high
+1005,1,Miss,Katherine,Buckley,female,18.5,Teenager,0,0,329944,3,Q,0,7.2833,low
+1006,1,Mrs,Rosalie Ida Blun,Straus,female,63.0,Senior,1,0,PC 17483,1,S,1,221.7792,very high
+1007,0,Mr,Demetrios,Chronopoulos,male,18.0,Teenager,1,0,2680,3,C,0,14.4542,medium
+1008,0,Mr,John,Thomas,male,28.0,Young Adult,0,0,2681,3,C,0,6.4375,low
+1009,1,Miss,Beatrice Irene,Sandstrom,female,1.0,Infant,1,1,PP 9549,3,S,1,16.7,high
+1010,0,Mr,Thomson,Beattie,male,36.0,Adult,0,0,13050,1,C,1,75.2417,very high
+1011,1,Mrs,Sara Elizabeth Lawry,Chapman,female,29.0,Young Adult,1,0,SC/AH 29037,2,S,0,26.0,high
+1012,1,Miss,Bertha J,Watt,female,12.0,Child,0,0,CA 33595,2,S,0,15.75,high
+1013,0,Mr,John,Kiernan,male,28.0,Young Adult,1,0,367227,3,Q,0,7.75,low
+1014,1,Mrs,Emma Mock,Schabert,female,35.0,Young Adult,1,0,13236,1,C,1,57.75,very high
+1015,0,Mr,Alfred John,Carver,male,28.0,Young Adult,0,0,392095,3,S,0,7.25,low
+1016,0,Mr,John,Kennedy,male,28.0,Young Adult,0,0,368783,3,Q,0,7.75,low
+1017,1,Miss,Laura Alice,Cribb,female,17.0,Teenager,0,1,371362,3,S,0,16.1,high
+1018,0,Mr,Karl Rudolf,Brobeck,male,22.0,Young Adult,0,0,350045,3,S,0,7.7958,low
+1019,1,Miss,Alicia,McCoy,female,28.0,Young Adult,2,0,367226,3,Q,0,23.25,high
+1020,0,Mr,Solomon,Bowenur,male,42.0,Adult,0,0,211535,2,S,0,13.0,medium
+1021,0,Mr,Marius,Petersen,male,24.0,Young Adult,0,0,342441,3,S,0,8.05,medium
+1022,0,Mr,Henry John,Spinner,male,32.0,Young Adult,0,0,STON/OQ 369943,3,S,0,8.05,medium
+1023,0,Col,Archibald IV,Gracie,male,53.0,Middle Aged,0,0,113780,1,C,1,28.5,high
+1024,1,Mrs,Frances,Lefebre,female,28.0,Young Adult,0,4,4133,3,S,0,25.4667,high
+1025,0,Mr,Charles P,Thomas,male,28.0,Young Adult,1,0,2621,3,C,0,6.4375,low
+1026,0,Mr,Valtcho,Dintcheff,male,43.0,Adult,0,0,349226,3,S,0,7.8958,low
+1027,0,Mr,Carl Robert,Carlsson,male,24.0,Young Adult,0,0,350409,3,S,0,7.8542,low
+1028,0,Mr,Mapriededer,Zakarian,male,26.5,Young Adult,0,0,2656,3,C,0,7.225,low
+1029,0,Mr,August,Schmidt,male,26.0,Young Adult,0,0,248659,2,S,0,13.0,medium
+1030,1,Miss,Jennie,Drapkin,female,23.0,Young Adult,0,0,SOTON/OQ 392083,3,S,0,8.05,medium
+1031,0,Mr,Charles Frederick,Goodwin,male,40.0,Adult,1,6,CA 2144,3,S,0,46.9,very high
+1032,1,Miss,Jessie Allis,Goodwin,female,10.0,Child,5,2,CA 2144,3,S,0,46.9,very high
+1033,1,Miss,Sarah,Daniels,female,33.0,Young Adult,0,0,113781,1,S,0,151.55,very high
+1034,0,Mr,Arthur Larned,Ryerson,male,61.0,Senior,1,3,PC 17608,1,C,1,262.375,very high
+1035,0,Mr,Henry James,Beauchamp,male,28.0,Young Adult,0,0,244358,2,S,0,26.0,high
+1036,0,Mr,"Erik Gustaf (Mr Edward Lingrey"")""",Lindeberg-Lind,male,42.0,Adult,0,0,17475,1,S,0,26.55,high
+1037,0,Mr,Julius,Vander Planke,male,31.0,Young Adult,3,0,345763,3,S,0,18.0,high
+1038,0,Mr,Herbert Henry,Hilliard,male,28.0,Young Adult,0,0,17463,1,S,1,51.8625,very high
+1039,0,Mr,Evan,Davies,male,22.0,Young Adult,0,0,SC/A4 23568,3,S,0,8.05,medium
+1040,0,Mr,John Bertram,Crafton,male,28.0,Young Adult,0,0,113791,1,S,0,26.55,high
+1041,0,Rev,William,Lahtinen,male,30.0,Young Adult,1,1,250651,2,S,0,26.0,high
+1042,1,Mrs,Olive Potter,Earnshaw,female,23.0,Young Adult,0,1,11767,1,C,1,83.1583,very high
+1043,0,Mr,Nicola,Matinoff,male,28.0,Young Adult,0,0,349255,3,C,0,7.8958,low
+1045,1,Mrs,Hulda Kristina Eugenia Lofqvist,Klasen,female,36.0,Adult,0,2,350405,3,S,0,12.1833,medium
+1046,0,Master,Filip Oscar,Asplund,male,13.0,Teenager,4,2,347077,3,S,0,31.3875,very high
+1047,0,Mr,Joseph,Duquemin,male,24.0,Young Adult,0,0,SO/PP 752,3,S,0,7.55,low
+1048,1,Miss,Ellen,Bird,female,29.0,Young Adult,0,0,PC 17483,1,S,1,221.7792,very high
+1049,1,Miss,Olga Elida,Lundin,female,23.0,Young Adult,0,0,347469,3,S,0,7.8542,low
+1050,0,Mr,John James,Borebank,male,42.0,Adult,0,0,110489,1,S,1,26.55,high
+1051,1,Mrs,Edith Nile,Peacock,female,26.0,Young Adult,0,2,SOTON/OQ 3101315,3,S,0,13.775,medium
+1052,1,Miss,Julia,Smyth,female,28.0,Young Adult,0,0,335432,3,Q,0,7.7333,low
+1053,0,Master,Georges Youssef,Touma,male,7.0,Child,1,1,2650,3,C,0,15.2458,high
+1054,1,Miss,Marion,Wright,female,26.0,Young Adult,0,0,220844,2,S,0,13.5,medium
+1055,0,Mr,Ernest,Pearce,male,28.0,Young Adult,0,0,343271,3,S,0,7.0,low
+1056,0,Rev,Joseph Maria,Peruschitz,male,41.0,Adult,0,0,237393,2,S,0,13.0,medium
+1057,1,Mrs,Luise Heilmann,Kink-Heilmann,female,26.0,Young Adult,1,1,315153,3,S,0,22.025,high
+1058,0,Mr,Emil,Brandeis,male,48.0,Adult,0,0,PC 17591,1,C,1,50.4958,very high
+1059,0,Mr,Edward Watson,Ford,male,18.0,Teenager,2,2,W/C 6608,3,S,0,34.375,very high
+1060,1,Mrs,Eleanor Genevieve Fosdick,Cassebeer,female,28.0,Young Adult,0,0,17770,1,C,0,27.7208,high
+1061,1,Miss,Hilda Maria,Hellstrom,female,22.0,Young Adult,0,0,7548,3,S,0,8.9625,medium
+1062,0,Mr,Simon,Lithman,male,28.0,Young Adult,0,0,SO/PP 251,3,S,0,7.55,low
+1063,0,Mr,Ortin,Zakarian,male,27.0,Young Adult,0,0,2670,3,C,0,7.225,low
+1064,0,Mr,Adolf Fredrik,Dyker,male,23.0,Young Adult,1,0,347072,3,S,0,13.9,medium
+1065,0,Mr,Assad,Torfa,male,28.0,Young Adult,0,0,2673,3,C,0,7.2292,low
+1066,0,Mr,Carl Oscar Vilhelm Gustafsson,Asplund,male,40.0,Adult,1,5,347077,3,S,0,31.3875,very high
+1067,1,Miss,Edith Eileen,Brown,female,15.0,Teenager,0,2,29750,2,S,0,39.0,very high
+1068,1,Miss,Maude,Sincock,female,20.0,Young Adult,0,0,CA 33112,2,S,0,36.75,very high
+1069,0,Mr,Charles Emil Henry,Stengel,male,54.0,Middle Aged,1,0,11778,1,C,1,55.4417,very high
+1070,1,Mrs,Nellie E Baumgardner,Becker,female,36.0,Adult,0,3,230136,2,S,1,39.0,very high
+1071,1,Mrs,Mary Eliza Ingersoll,Compton,female,64.0,Senior,0,2,PC 17756,1,C,1,83.1583,very high
+1072,0,Mr,James Matthew,McCrie,male,30.0,Young Adult,0,0,233478,2,S,0,13.0,medium
+1073,0,Mr,Alexander Taylor Jr,Compton,male,37.0,Adult,1,1,PC 17756,1,C,1,83.1583,very high
+1074,1,Mrs,Mary Graham Carmichael Farquarson,Marvin,female,18.0,Teenager,1,0,113773,1,S,1,53.1,very high
+1075,0,Mr,Patrick,Lane,male,28.0,Young Adult,0,0,7935,3,Q,0,7.75,low
+1076,1,Mrs,Mary Helene Baxter,Douglas,female,27.0,Young Adult,1,1,PC 17558,1,C,1,247.5208,very high
+1077,0,Mr,Frank Hubert,Maybery,male,40.0,Adult,0,0,239059,2,S,0,16.0,high
+1078,1,Miss,Alice Frances Louisa,Phillips,female,21.0,Young Adult,0,1,SO/PP 2,2,S,0,21.0,high
+1079,0,Mr,Joseph,Davies,male,17.0,Teenager,2,0,A/4 48873,3,S,0,8.05,medium
+1080,1,Miss,Ada,Sage,female,28.0,Young Adult,8,2,CA 2343,3,S,0,69.55,very high
+1081,0,Mr,James,Veal,male,40.0,Adult,0,0,28221,2,S,0,13.0,medium
+1082,0,Mr,William A,Angle,male,34.0,Young Adult,1,0,226875,2,S,0,26.0,high
+1083,0,Mr,Abraham L,Salomon,male,28.0,Young Adult,0,0,111163,1,S,0,26.0,high
+1084,0,Master,Walter John,van Billiard,male,11.5,Child,1,1,A/5 851,3,S,0,14.5,high
+1085,0,Mr,John,Lingane,male,61.0,Senior,0,0,235509,2,Q,0,12.35,medium
+1086,0,Master,Marshall Brines,Drew,male,8.0,Child,0,2,28220,2,S,0,32.5,very high
+1087,0,Mr,Julius Konrad Eugen,Karlsson,male,33.0,Young Adult,0,0,347465,3,S,0,7.8542,low
+1088,0,Master,Robert Douglas,Spedden,male,6.0,Child,0,2,16966,1,C,1,134.5,very high
+1089,1,Miss,Berta Olivia,Nilsson,female,18.0,Teenager,0,0,347066,3,S,0,7.775,low
+1090,0,Mr,Charles Robert,Baimbrigge,male,23.0,Young Adult,0,0,CA 31030,2,S,0,10.5,medium
+1091,1,Mrs,Lena Jacobsen Solvang,Rasmussen,female,28.0,Young Adult,0,0,65305,3,S,0,8.1125,medium
+1092,1,Miss,Nora,Murphy,female,28.0,Young Adult,0,0,36568,3,Q,0,15.5,high
+1093,0,Master,Gilbert Sigvard Emanuel,Danbom,male,0.33,Infant,0,2,347080,3,S,0,14.4,medium
+1094,0,Col,John Jacob,Astor,male,47.0,Adult,1,0,PC 17757,1,C,1,227.525,very high
+1095,1,Miss,Winifred Vera,Quick,female,8.0,Child,1,1,26360,2,S,0,26.0,high
+1096,0,Mr,Frank Thomas,Andrew,male,25.0,Young Adult,0,0,CA 34050,2,S,0,10.5,medium
+1097,0,Mr,Alfred Fernand,Omont,male,28.0,Young Adult,0,0,FC 12998,1,C,0,25.7417,high
+1098,1,Miss,Katherine,McGowan,female,35.0,Young Adult,0,0,9232,3,Q,0,7.75,low
+1099,0,Mr,Sidney C Stuart,Collett,male,24.0,Young Adult,0,0,28034,2,S,0,10.5,medium
+1100,1,Miss,Edith Louise,Rosenbaum,female,33.0,Young Adult,0,0,PC 17613,1,C,1,27.7208,high
+1101,0,Mr,Redjo,Delalic,male,25.0,Young Adult,0,0,349250,3,S,0,7.8958,low
+1102,0,Mr,Albert Karvin,Andersen,male,32.0,Young Adult,0,0,C 4001,3,S,0,22.525,high
+1103,0,Mr,Luigi,Finoli,male,28.0,Young Adult,0,0,SOTON/OQ 3101308,3,S,0,7.05,low
+1104,0,Mr,Percy William,Deacon,male,17.0,Teenager,0,0,SOC 14879,2,S,0,73.5,very high
+1105,1,Mrs,Ellen Truelove Arman,Howard,female,60.0,Middle Aged,1,0,24065,2,S,0,26.0,high
+1106,1,Miss,Ida Augusta Margareta,Andersson,female,38.0,Adult,4,2,347091,3,S,0,7.775,low
+1107,0,Mr,Christopher,Head,male,42.0,Adult,0,0,113038,1,S,1,42.5,very high
+1108,1,Miss,Bridget Delia,Mahon,female,28.0,Young Adult,0,0,330924,3,Q,0,7.8792,low
+1109,0,Mr,George Dennick,Wick,male,57.0,Middle Aged,1,1,36928,1,S,0,164.8667,very high
+1110,1,Mrs,Eleanor Elkins,Widener,female,50.0,Adult,1,1,113503,1,C,1,211.5,very high
+1111,0,Mr,Alexander Morrison,Thomson,male,28.0,Young Adult,0,0,32302,3,S,0,8.05,medium
+1112,1,Miss,Florentina,Duran y More,female,30.0,Young Adult,1,0,SC/PARIS 2148,2,C,0,13.8583,medium
+1113,0,Mr,Harold J,Reynolds,male,21.0,Young Adult,0,0,342684,3,S,0,8.05,medium
+1114,1,Mrs,Selena Rogers,Cook,female,22.0,Young Adult,0,0,W/C 14266,2,S,1,10.5,medium
+1115,0,Mr,Einar Gervasius,Karlsson,male,21.0,Young Adult,0,0,350053,3,S,0,7.7958,low
+1116,1,Mrs,Helen Churchill Hungerford,Candee,female,53.0,Middle Aged,0,0,PC 17606,1,C,0,27.4458,high
+1117,1,Mrs,"Omine Amenia"" Alexander)""",Moubarek,female,28.0,Young Adult,0,2,2661,3,C,0,15.2458,high
+1118,0,Mr,Johan Charles,Asplund,male,23.0,Young Adult,0,0,350054,3,S,0,7.7958,low
+1119,1,Miss,Bridget,McNeill,female,28.0,Young Adult,0,0,370368,3,Q,0,7.75,low
+1120,0,Mr,Thomas James,Everett,male,40.5,Adult,0,0,CA 6212,3,S,0,15.1,high
+1121,0,Mr,Samuel James Metcalfe,Hocking,male,36.0,Adult,0,0,242963,2,S,0,13.0,medium
+1122,0,Mr,George Frederick,Sweet,male,14.0,Teenager,0,0,220845,2,S,0,65.0,very high
+1123,1,Miss,Constance,Willard,female,21.0,Young Adult,0,0,113795,1,S,0,26.55,high
+1124,0,Mr,Karl Johan,Wiklund,male,21.0,Young Adult,1,0,3101266,3,S,0,6.4958,low
+1125,0,Mr,Michael,Linehan,male,28.0,Young Adult,0,0,330971,3,Q,0,7.8792,low
+1126,0,Mr,John Bradley,Cumings,male,39.0,Adult,1,0,PC 17599,1,C,1,71.2833,very high
+1127,0,Mr,Olof Edvin,Vendel,male,20.0,Young Adult,0,0,350416,3,S,0,7.8542,low
+1128,0,Mr,Frank Manley,Warren,male,64.0,Senior,1,0,110813,1,C,1,75.25,very high
+1129,0,Mr,Raffull,Baccos,male,20.0,Young Adult,0,0,2679,3,C,0,7.225,low
+1130,1,Miss,Marta,Hiltunen,female,18.0,Teenager,1,1,250650,2,S,0,13.0,medium
+1131,1,Mrs,Mahala Dutton,Douglas,female,48.0,Adult,1,0,PC 17761,1,C,1,106.425,very high
+1132,1,Mrs,Sigrid Posse,Lindstrom,female,55.0,Middle Aged,0,0,112377,1,C,0,27.7208,high
+1133,1,Mrs,Alice Frances,Christy,female,45.0,Adult,0,2,237789,2,S,0,30.0,high
+1134,0,Mr,Frederic Oakley,Spedden,male,45.0,Adult,1,1,16966,1,C,1,134.5,very high
+1135,0,Mr,Abraham,Hyman,male,28.0,Young Adult,0,0,3470,3,S,0,7.8875,low
+1136,0,Master,"William Arthur Willie""""",Johnston,male,28.0,Young Adult,1,2,W/C 6607,3,S,0,23.45,high
+1137,0,Mr,Frederick R,Kenyon,male,41.0,Adult,1,0,17464,1,S,1,51.8625,very high
+1138,1,Mrs,Claire Bennett,Karnes,female,22.0,Young Adult,0,0,FCC 13534,2,S,0,21.0,high
+1139,0,Mr,James Vivian,Drew,male,42.0,Adult,1,1,28220,2,S,0,32.5,very high
+1140,1,Mrs,Annie Margaret Hill,Hold,female,29.0,Young Adult,1,0,26707,2,S,0,26.0,high
+1141,1,Mrs,"Zahie Maria"" Elias)""",Khalil,female,28.0,Young Adult,1,0,2660,3,C,0,14.4542,medium
+1142,1,Miss,Barbara J,West,female,0.92,Infant,1,2,CA 34651,2,S,0,27.75,high
+1143,0,Mr,Abraham August Johannes,Abrahamsson,male,20.0,Young Adult,0,0,SOTON/O2 3101284,3,S,0,7.925,low
+1144,0,Mr,Walter Miller,Clark,male,27.0,Young Adult,1,0,13508,1,C,1,136.7792,very high
+1145,0,Mr,Karl Johan,Salander,male,24.0,Young Adult,0,0,7266,3,S,0,9.325,medium
+1146,0,Mr,Linhart,Wenzel,male,32.5,Young Adult,0,0,345775,3,S,0,9.5,medium
+1147,0,Mr,George William,MacKay,male,28.0,Young Adult,0,0,CA 42795,3,S,0,7.55,low
+1148,0,Mr,John,Mahon,male,28.0,Young Adult,0,0,AQ/4 3130,3,Q,0,7.75,low
+1149,0,Mr,Samuel,Niklasson,male,28.0,Young Adult,0,0,363611,3,S,0,8.05,medium
+1150,1,Miss,Lilian W,Bentham,female,19.0,Teenager,0,0,28404,2,S,0,13.0,medium
+1151,0,Mr,Karl Albert,Midtsjo,male,21.0,Young Adult,0,0,345501,3,S,0,7.775,low
+1152,0,Mr,Guillaume Joseph,de Messemaeker,male,36.5,Adult,1,0,345572,3,S,0,17.4,high
+1153,0,Mr,August Ferdinand,Nilsson,male,21.0,Young Adult,0,0,350410,3,S,0,7.8542,low
+1154,1,Mrs,"Addie"" Dart Trevaskis)""",Wells,female,29.0,Young Adult,0,2,29103,2,S,0,23.0,high
+1155,1,Miss,Gertrud Emilia,Klasen,female,1.0,Infant,1,1,350405,3,S,0,12.1833,medium
+1156,0,Mr,Emilio Ilario Giuseppe,Portaluppi,male,30.0,Young Adult,0,0,CA 34644,2,C,0,12.7375,medium
+1157,0,Mr,Stanko,Lyntakoff,male,28.0,Young Adult,0,0,349235,3,S,0,7.8958,low
+1158,0,Mr,Roderick Robert Crispin,Chisholm,male,28.0,Young Adult,0,0,112051,1,S,0,14.4542,medium
+1159,0,Mr,Charles William,Warren,male,28.0,Young Adult,0,0,CA 49867,3,S,0,7.55,low
+1160,1,Miss,May Elizabeth,Howard,female,28.0,Young Adult,0,0,A 2 39186,3,S,0,8.05,medium
+1161,0,Mr,Mate,Pokrnic,male,17.0,Teenager,0,0,315095,3,S,0,8.6625,medium
+1162,0,Mr,Thomas Francis,McCaffry,male,46.0,Adult,0,0,13050,1,C,1,75.2417,very high
+1163,0,Mr,Patrick,Fox,male,28.0,Young Adult,0,0,368573,3,Q,0,7.75,low
+1164,1,Mrs,Virginia McDowell,Clark,female,26.0,Young Adult,1,0,13508,1,C,1,136.7792,very high
+1165,1,Miss,Mary,Lennon,female,28.0,Young Adult,1,0,370371,3,Q,0,15.5,high
+1166,0,Mr,Jean Nassr,Saade,male,28.0,Young Adult,0,0,2676,3,C,0,7.225,low
+1167,1,Miss,Dagmar Jenny Ingeborg,Bryhl,female,20.0,Young Adult,1,0,236853,2,S,0,26.0,high
+1168,0,Mr,Clifford Richard,Parker,male,28.0,Young Adult,0,0,SC 14888,2,S,0,10.5,medium
+1169,0,Mr,Harry,Faunthorpe,male,40.0,Adult,1,0,2926,2,S,0,26.0,high
+1170,0,Mr,John James,Ware,male,30.0,Young Adult,1,0,CA 31352,2,S,0,21.0,high
+1171,0,Mr,Percy Thomas,Oxenham,male,22.0,Young Adult,0,0,W/C 14260,2,S,0,10.5,medium
+1172,1,Miss,Jelka,Oreskovic,female,23.0,Young Adult,0,0,315085,3,S,0,8.6625,medium
+1173,0,Master,Alfred Edward,Peacock,male,0.75,Infant,1,1,SOTON/OQ 3101315,3,S,0,13.775,medium
+1174,1,Miss,Honora,Fleming,female,28.0,Young Adult,0,0,364859,3,Q,0,7.75,low
+1175,1,Miss,Maria Youssef,Touma,female,9.0,Child,1,1,2650,3,C,0,15.2458,high
+1176,1,Miss,Salli Helena,Rosblom,female,2.0,Infant,1,1,370129,3,S,0,20.2125,high
+1177,0,Mr,William,Dennis,male,36.0,Adult,0,0,A/5 21175,3,S,0,7.25,low
+1178,0,Mr,Charles (Charles Fardon),Franklin,male,28.0,Young Adult,0,0,SOTON/OQ 3101314,3,S,0,7.25,low
+1179,0,Mr,John Pillsbury,Snyder,male,24.0,Young Adult,1,0,21228,1,S,1,82.2667,very high
+1180,0,Mr,Sarkis,Mardirosian,male,28.0,Young Adult,0,0,2655,3,C,1,7.2292,low
+1181,0,Mr,Arthur,Ford,male,28.0,Young Adult,0,0,A/5 1478,3,S,0,8.05,medium
+1182,0,Mr,George Alexander Lucien,Rheims,male,28.0,Young Adult,0,0,PC 17607,1,S,0,39.6,very high
+1183,1,Miss,"Margaret Marcella Maggie""""",Daly,female,30.0,Young Adult,0,0,382650,3,Q,0,6.95,low
+1184,0,Mr,Mustafa,Nasr,male,28.0,Young Adult,0,0,2652,3,C,0,7.2292,low
+1185,0,Dr,Washington,Dodge,male,53.0,Middle Aged,1,1,33638,1,S,1,81.8583,very high
+1186,0,Mr,Camille,Wittevrongel,male,36.0,Adult,0,0,345771,3,S,0,9.5,medium
+1187,0,Mr,Minko,Angheloff,male,26.0,Young Adult,0,0,349202,3,S,0,7.8958,low
+1188,1,Miss,Louise,Laroche,female,1.0,Infant,1,2,SC/Paris 2123,2,C,0,41.5792,very high
+1189,0,Mr,Hanna,Samaan,male,28.0,Young Adult,2,0,2662,3,C,0,21.6792,high
+1190,0,Mr,Joseph Holland,Loring,male,30.0,Young Adult,0,0,113801,1,S,0,45.5,very high
+1191,0,Mr,Nils,Johansson,male,29.0,Young Adult,0,0,347467,3,S,0,7.8542,low
+1192,0,Mr,Oscar Wilhelm,Olsson,male,32.0,Young Adult,0,0,347079,3,S,0,7.775,low
+1193,0,Mr,Noel,Malachard,male,28.0,Young Adult,0,0,237735,2,C,1,15.0458,high
+1194,0,Mr,Escott Robert,Phillips,male,43.0,Adult,0,1,SO/PP 2,2,S,0,21.0,high
+1195,0,Mr,Tome,Pokrnic,male,24.0,Young Adult,0,0,315092,3,S,0,8.6625,medium
+1196,1,Miss,"Catherine Katie""""",McCarthy,female,28.0,Young Adult,0,0,383123,3,Q,0,7.75,low
+1197,1,Mrs,Catherine Elizabeth Halstead,Crosby,female,64.0,Senior,1,1,112901,1,S,1,26.55,high
+1198,0,Mr,Hudson Joshua Creighton,Allison,male,30.0,Young Adult,1,2,113781,1,S,1,151.55,very high
+1199,0,Master,Philip Frank,Aks,male,0.83,Infant,0,1,392091,3,S,0,9.35,medium
+1200,0,Mr,Charles Melville,Hays,male,55.0,Middle Aged,1,1,12749,1,S,1,93.5,very high
+1201,1,Mrs,Jennie L Howard,Hansen,female,45.0,Adult,1,0,350026,3,S,0,14.1083,medium
+1202,0,Mr,Jego Grga,Cacic,male,18.0,Teenager,0,0,315091,3,S,0,8.6625,medium
+1203,0,Mr,David,Vartanian,male,22.0,Young Adult,0,0,2658,3,C,0,7.225,low
+1204,0,Mr,Harry,Sadowitz,male,28.0,Young Adult,0,0,LP 1588,3,S,0,7.575,low
+1205,1,Miss,Jeannie,Carr,female,37.0,Adult,0,0,368364,3,Q,0,7.75,low
+1206,1,Mrs,Ella Holmes,White,female,55.0,Middle Aged,0,0,PC 17760,1,C,1,135.6333,very high
+1207,1,Miss,Kate,Hagardon,female,17.0,Teenager,0,0,AQ/3 30631,3,Q,0,7.7333,low
+1208,0,Mr,William Augustus,Spencer,male,57.0,Middle Aged,1,0,PC 17569,1,C,1,146.5208,very high
+1209,0,Mr,Reginald Harry,Rogers,male,19.0,Teenager,0,0,28004,2,S,0,10.5,medium
+1210,0,Mr,Nils Hilding,Jonsson,male,27.0,Young Adult,0,0,350408,3,S,0,7.8542,low
+1211,0,Mr,Ernest Wilfred,Jefferys,male,22.0,Young Adult,2,0,CA 31029,2,S,0,31.5,very high
+1212,0,Mr,Johan Samuel,Andersson,male,26.0,Young Adult,0,0,347075,3,S,0,7.775,low
+1213,0,Mr,Neshan,Krekorian,male,25.0,Young Adult,0,0,2654,3,C,1,7.2292,low
+1214,0,Mr,Israel,Nesson,male,26.0,Young Adult,0,0,244368,2,S,1,13.0,medium
+1215,0,Mr,Alfred G,Rowe,male,33.0,Young Adult,0,0,113790,1,S,0,26.55,high
+1216,1,Miss,Emilie,Kreuchen,female,39.0,Adult,0,0,24160,1,S,0,211.3375,very high
+1217,0,Mr,Ali,Assam,male,23.0,Young Adult,0,0,SOTON/OQ 3101309,3,S,0,7.05,low
+1218,1,Miss,Ruth Elizabeth,Becker,female,12.0,Child,2,1,230136,2,S,1,39.0,very high
+1219,0,Mr,"George (Mr George Thorne"")""",Rosenshine,male,46.0,Adult,0,0,PC 17585,1,C,0,79.2,very high
+1220,0,Mr,Charles Valentine,Clarke,male,29.0,Young Adult,1,0,2003,2,S,0,26.0,high
+1221,0,Mr,Ingvar,Enander,male,21.0,Young Adult,0,0,236854,2,S,0,13.0,medium
+1222,1,Mrs,Elizabeth Agnes Mary White),Davies,female,48.0,Adult,0,2,CA 33112,2,S,0,36.75,very high
+1223,0,Mr,William Crothers,Dulles,male,39.0,Adult,0,0,PC 17580,1,C,1,29.7,high
+1224,0,Mr,Tannous,Thomas,male,28.0,Young Adult,0,0,2684,3,C,0,7.225,low
+1225,1,Mrs,"Waika Mary"" Mowad)""",Nakid,female,19.0,Teenager,1,1,2653,3,C,0,15.7417,high
+1226,0,Mr,Ivan,Cor,male,27.0,Young Adult,0,0,349229,3,S,0,7.8958,low
+1227,0,Mr,John Edward,Maguire,male,30.0,Young Adult,0,0,110469,1,S,1,26.0,high
+1228,0,Mr,Jose Joaquim,de Brito,male,32.0,Young Adult,0,0,244360,2,S,0,13.0,medium
+1229,0,Mr,Joseph,Elias,male,39.0,Adult,0,2,2675,3,C,0,7.2292,low
+1230,0,Mr,Herbert,Denbury,male,25.0,Young Adult,0,0,CA 31029,2,S,0,31.5,very high
+1231,0,Master,Seman,Betros,male,28.0,Young Adult,0,0,2622,3,C,0,7.2292,low
+1232,0,Mr,Joseph Charles,Fillbrook,male,18.0,Teenager,0,0,CA 15185,2,S,0,10.5,medium
+1233,0,Mr,Thure Edvin,Lundstrom,male,32.0,Young Adult,0,0,350403,3,S,0,7.5792,low
+1234,0,Mr,John George,Sage,male,28.0,Young Adult,1,9,CA 2343,3,S,0,69.55,very high
+1235,1,Mrs,Charlotte Wardle Drake,Cardeza,female,58.0,Middle Aged,0,1,PC 17755,1,C,1,512.3292,very high
+1236,0,Master,James William,van Billiard,male,28.0,Young Adult,1,1,A/5 851,3,S,0,14.5,high
+1237,1,Miss,Karen Marie,Abelseth,female,16.0,Teenager,0,0,348125,3,S,0,7.65,low
+1238,0,Mr,William Hull,Botsford,male,26.0,Young Adult,0,0,237670,2,S,0,13.0,medium
+1239,1,Mrs,Shawneene Abi-Saab,Whabee,female,38.0,Adult,0,0,2688,3,C,0,7.2292,low
+1240,0,Mr,Ralph,Giles,male,24.0,Young Adult,0,0,248726,2,S,0,13.5,medium
+1241,1,Miss,Nellie,Walcroft,female,31.0,Young Adult,0,0,FCC 13528,2,S,0,21.0,high
+1242,1,Mrs,Blanche Strouse,Greenfield,female,45.0,Adult,0,1,PC 17759,1,C,1,63.3583,very high
+1243,0,Mr,Philip Joseph,Stokes,male,25.0,Young Adult,0,0,FCC 13540,2,S,0,10.5,medium
+1244,0,Mr,William,Dibden,male,18.0,Teenager,0,0,SOC 14879,2,S,0,73.5,very high
+1245,0,Mr,Samuel,Herman,male,49.0,Adult,1,2,220845,2,S,0,65.0,very high
+1246,1,Miss,"Elizabeth Gladys Millvina""""",Dean,female,0.17,Infant,1,2,CA 2315,3,S,0,20.575,high
+1247,0,Mr,Henry Forbes,Julian,male,50.0,Adult,0,0,113044,1,S,1,26.0,high
+1248,1,Mrs,Caroline Lane Lamson,Brown,female,59.0,Middle Aged,2,0,11769,1,S,1,51.4792,very high
+1249,0,Mr,Edward,Lockyer,male,28.0,Young Adult,0,0,1222,3,S,0,7.8792,low
+1250,0,Mr,Patrick,O'Keefe,male,28.0,Young Adult,0,0,368402,3,Q,0,7.75,low
+1251,1,Mrs,Elin Gerda Persson,Lindell,female,30.0,Young Adult,1,0,349910,3,S,0,15.55,high
+1252,0,Master,William Henry,Sage,male,14.5,Teenager,8,2,CA 2343,3,S,0,69.55,very high
+1253,1,Mrs,Antoinette Magnin,Mallet,female,24.0,Young Adult,1,1,SC/PARIS 2079,2,C,0,37.0042,very high
+1254,1,Mrs,Florence Louise Long,Ware,female,31.0,Young Adult,0,0,CA 31352,2,S,0,21.0,high
+1255,0,Mr,Ivan,Strilic,male,27.0,Young Adult,0,0,315083,3,S,0,8.6625,medium
+1256,1,Mrs,Dorothy Annan,Harder,female,25.0,Young Adult,1,0,11765,1,C,1,55.4417,very high
+1257,1,Mrs,Annie Bullen,Sage,female,28.0,Young Adult,1,9,CA 2343,3,S,0,69.55,very high
+1258,0,Mr,Joseph,Caram,male,28.0,Young Adult,1,0,2689,3,C,0,14.4583,high
+1259,1,Miss,"Susanna Juhantytar Sanni""""",Riihivouri,female,22.0,Young Adult,0,0,3101295,3,S,0,39.6875,very high
+1260,1,Mrs,Pauline C Boeson,Gibson,female,45.0,Adult,0,1,112378,1,C,0,59.4,very high
+1261,0,Mr,Emilio,Pallas y Castello,male,29.0,Young Adult,0,0,SC/PARIS 2147,2,C,0,13.8583,medium
+1262,0,Mr,Edgar,Giles,male,21.0,Young Adult,1,0,28133,2,S,0,11.5,medium
+1263,1,Miss,Helen Alice,Wilson,female,31.0,Young Adult,0,0,16966,1,C,1,134.5,very high
+1264,0,Mr,Joseph Bruce,Ismay,male,49.0,Adult,0,0,112058,1,S,1,14.4542,medium
+1265,0,Mr,William H,Harbeck,male,44.0,Adult,0,0,248746,2,S,0,13.0,medium
+1266,1,Mrs,Ruth Vidaver,Dodge,female,54.0,Middle Aged,1,1,33638,1,S,1,81.8583,very high
+1267,1,Miss,Grace Scott,Bowen,female,45.0,Adult,0,0,PC 17608,1,C,0,262.375,very high
+1268,1,Miss,Maria,Kink,female,22.0,Young Adult,2,0,315152,3,S,0,8.6625,medium
+1269,0,Mr,"Henry Harry""""",Cotterill,male,21.0,Young Adult,0,0,29107,2,S,0,11.5,medium
+1270,0,Mr,William Edward,Hipkins,male,55.0,Middle Aged,0,0,680,1,S,1,50.0,very high
+1271,0,Master,Carl Edgar,Asplund,male,5.0,Child,4,2,347077,3,S,0,31.3875,very high
+1272,0,Mr,Patrick,O'Connor,male,28.0,Young Adult,0,0,366713,3,Q,0,7.75,low
+1273,0,Mr,Joseph,Foley,male,26.0,Young Adult,0,0,330910,3,Q,0,7.8792,low
+1274,1,Mrs,Emma,Risien,female,28.0,Young Adult,0,0,364498,3,S,0,14.5,high
+1275,1,Mrs,Eileen O'Leary,McNamee,female,19.0,Teenager,1,0,376566,3,S,0,16.1,high
+1276,0,Mr,"Edwin Frederick""""",Wheeler,male,28.0,Young Adult,0,0,SC/PARIS 2159,2,S,0,12.875,medium
+1277,1,Miss,Kate,Herman,female,24.0,Young Adult,1,2,220845,2,S,0,65.0,very high
+1278,0,Mr,Ernst Axel Algot,Aronsson,male,24.0,Young Adult,0,0,349911,3,S,0,7.775,low
+1279,0,Mr,John,Ashby,male,57.0,Middle Aged,0,0,244346,2,S,0,13.0,medium
+1280,0,Mr,Patrick,Canavan,male,21.0,Young Adult,0,0,364858,3,Q,0,7.75,low
+1281,0,Master,Paul Folke,Palsson,male,6.0,Child,3,1,349909,3,S,0,21.075,high
+1282,0,Mr,Vivian Ponsonby,Payne,male,23.0,Young Adult,0,0,12749,1,S,1,93.5,very high
+1283,1,Mrs,Elizabeth Lindsey James,Lines,female,51.0,Middle Aged,0,1,PC 17592,1,S,1,39.4,very high
+1284,0,Master,Eugene Joseph,Abbott,male,13.0,Teenager,0,2,CA 2673,3,S,0,20.25,high
+1285,0,Mr,William,Gilbert,male,47.0,Adult,0,0,CA 30769,2,S,0,10.5,medium
+1286,0,Mr,Anton,Kink-Heilmann,male,29.0,Young Adult,3,1,315153,3,S,0,22.025,high
+1287,1,Mrs,Mary Eloise Hughes,Smith,female,18.0,Teenager,1,0,13695,1,S,1,60.0,very high
+1288,0,Mr,Patrick,Colbert,male,24.0,Young Adult,0,0,371109,3,Q,0,7.25,low
+1289,1,Mrs,Margaretha Emerentia Stehli,Frolicher-Stehli,female,48.0,Adult,1,1,13567,1,C,1,79.2,very high
+1290,0,Mr,Edvard A,Larsson-Rondberg,male,22.0,Young Adult,0,0,347065,3,S,0,7.775,low
+1291,0,Mr,Thomas Henry,Conlon,male,31.0,Young Adult,0,0,21332,3,Q,0,7.7333,low
+1292,1,Miss,Caroline,Bonnell,female,30.0,Young Adult,0,0,36928,1,S,1,164.8667,very high
+1293,0,Mr,Harry,Gale,male,38.0,Adult,1,0,28664,2,S,0,21.0,high
+1294,1,Miss,Dorothy Winifred,Gibson,female,22.0,Young Adult,0,1,112378,1,C,0,59.4,very high
+1295,0,Mr,Jose Pedro,Carrau,male,17.0,Teenager,0,0,113059,1,S,0,47.1,very high
+1296,0,Mr,Isaac Gerald,Frauenthal,male,43.0,Adult,1,0,17765,1,C,1,27.7208,high
+1297,0,Mr,"Alfred (Baron von Drachstedt"")""",Nourney,male,20.0,Young Adult,0,0,SC/PARIS 2166,2,C,1,13.8625,medium
+1298,0,Mr,William Jeffery,Ware,male,23.0,Young Adult,1,0,28666,2,S,0,10.5,medium
+1299,0,Mr,George Dunton,Widener,male,50.0,Adult,1,1,113503,1,C,1,211.5,very high
+1300,1,Miss,"Johanna Hannah""""",Riordan,female,28.0,Young Adult,0,0,334915,3,Q,0,7.7208,low
+1301,1,Miss,Treasteall,Peacock,female,3.0,Child,1,1,SOTON/OQ 3101315,3,S,0,13.775,medium
+1302,1,Miss,Hannah,Naughton,female,28.0,Young Adult,0,0,365237,3,Q,0,7.75,low
+1303,1,Mrs,Lillian E Thorpe,Minahan,female,37.0,Adult,1,0,19928,1,Q,1,90.0,very high
+1304,1,Miss,Jenny Lovisa,Henriksson,female,28.0,Young Adult,0,0,347086,3,S,0,7.775,low
+1305,0,Mr,Woolf,Spector,male,28.0,Young Adult,0,0,A5 3236,3,S,0,8.05,medium
+1306,1,Dona,Fermina,Oliva y Ocana,female,39.0,Adult,0,0,PC 17758,1,C,1,108.9,very high
+1307,0,Mr,Simon Sivertsen,Saether,male,38.5,Adult,0,0,SOTON/OQ 3101262,3,S,0,7.25,low
+1308,0,Mr,Frederick,Ware,male,28.0,Young Adult,0,0,359309,3,S,0,8.05,medium
+1309,0,Master,Michael J,Peter,male,28.0,Young Adult,1,1,2668,3,C,0,22.3583,high
